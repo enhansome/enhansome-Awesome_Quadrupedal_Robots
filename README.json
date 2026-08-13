@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Barkour",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-15T09:35:05Z",
+            "owner": "google-deepmind",
+            "repo": "barkour_robot",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mevius",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-10T01:40:50Z",
+            "owner": "haraduka",
+            "repo": "mevius",
+            "stars": 251
+          }
+        }
+      ],
+      "title": "Quadrupedal Robot 🐅"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2026-06-25T14:20:19Z",
+            "owner": "aCodeDog",
+            "repo": "awesome-loco-manipulation",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-15T14:53:25Z",
+            "owner": "beduffy",
+            "repo": "many-quadrupeds",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Github 💻"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:01:25.346Z",
+    "original_repository": "curieuxjy/Awesome_Quadrupedal_Robots",
+    "original_repository_sha": "b1569acc9f55d99746edfe95edabe1c10773c68a",
+    "enhanced_repository": "enhansome/enhansome-Awesome_Quadrupedal_Robots",
+    "enhanced_repository_description": null,
+    "title": "Awesome Awesome_Quadrupedal_Robots with stars"
+  }
+}
