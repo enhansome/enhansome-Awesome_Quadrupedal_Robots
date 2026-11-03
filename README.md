@@ -564,31 +564,31 @@
 
 <details><summary><b>Survey</b></summary>
 
-* [![](https://img.shields.io/badge/aCodeDog-awesome--loco--manipulation-black?style=flat-square\&logo=github)](https://github.com/aCodeDog/awesome-loco-manipulation) ⭐ 335 | 🐛 0 | 🌐 CMake | 📅 2026-06-25 <img src="https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/aCodeDog-awesome--loco--manipulation-black?style=flat-square\&logo=github)](https://github.com/aCodeDog/awesome-loco-manipulation) ⭐ 336 | 🐛 0 | 🌐 CMake | 📅 2026-06-25 <img src="https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/beduffy-many--quadrupeds-black?style=flat-square\&logo=github)](https://github.com/beduffy/many-quadrupeds) ⭐ 21 | 🐛 0 | 📅 2023-11-15 <img src="https://img.shields.io/github/stars/beduffy/many-quadrupeds?style=flat-square&color=yellow">
 
 </details>
 
 <details><summary><b>Datasets & Benchmarks</b></summary>
 
-* [![](https://img.shields.io/badge/leggedrobotics-grand_tour_dataset-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/grand_tour_dataset) ⭐ 161 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-08-17 <img src="https://img.shields.io/github/stars/leggedrobotics/grand_tour_dataset?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/leggedrobotics-grand_tour_dataset-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/grand_tour_dataset) ⭐ 162 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-08-17 <img src="https://img.shields.io/github/stars/leggedrobotics/grand_tour_dataset?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/iit--DLSLab-state_estimation_benchmark-black?style=flat-square\&logo=github)](https://github.com/iit-DLSLab/state_estimation_benchmark) ⭐ 28 | 🐛 1 | 🌐 C++ | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/iit-DLSLab/state_estimation_benchmark?style=flat-square&color=yellow">
 
 </details>
 
 <details><summary><b>Hardware</b></summary>
 
-* [![](https://img.shields.io/badge/PetoiCamp-OpenCat-black?style=flat-square\&logo=github)](https://github.com/PetoiCamp/OpenCat) ⭐ 5,530 | 🐛 6 | 🌐 C++ | 📅 2026-09-08 <img src="https://img.shields.io/github/stars/PetoiCamp/OpenCat?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/stanfordroboticsclub-StanfordQuadruped-black?style=flat-square\&logo=github)](https://github.com/stanfordroboticsclub/StanfordQuadruped) ⭐ 1,828 | 🐛 24 | 🌐 Python | 📅 2024-10-24 <img src="https://img.shields.io/github/stars/stanfordroboticsclub/StanfordQuadruped?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/mangdangroboticsclub-QuadrupedRobot-black?style=flat-square\&logo=github)](https://github.com/mangdangroboticsclub/QuadrupedRobot) ⭐ 1,191 | 🐛 0 | 📅 2026-10-29 <img src="https://img.shields.io/github/stars/mangdangroboticsclub/QuadrupedRobot?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/adham--elarabawy-open--quadruped-black?style=flat-square\&logo=github)](https://github.com/adham-elarabawy/open-quadruped) ⭐ 515 | 🐛 11 | 🌐 C++ | 📅 2024-08-23 <img src="https://img.shields.io/github/stars/adham-elarabawy/open-quadruped?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/PetoiCamp-OpenCat-black?style=flat-square\&logo=github)](https://github.com/PetoiCamp/OpenCat) ⭐ 5,533 | 🐛 6 | 🌐 C++ | 📅 2026-09-08 <img src="https://img.shields.io/github/stars/PetoiCamp/OpenCat?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/stanfordroboticsclub-StanfordQuadruped-black?style=flat-square\&logo=github)](https://github.com/stanfordroboticsclub/StanfordQuadruped) ⭐ 1,829 | 🐛 24 | 🌐 Python | 📅 2024-10-24 <img src="https://img.shields.io/github/stars/stanfordroboticsclub/StanfordQuadruped?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/mangdangroboticsclub-QuadrupedRobot-black?style=flat-square\&logo=github)](https://github.com/mangdangroboticsclub/QuadrupedRobot) ⭐ 1,193 | 🐛 0 | 📅 2026-10-29 <img src="https://img.shields.io/github/stars/mangdangroboticsclub/QuadrupedRobot?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/adham--elarabawy-open--quadruped-black?style=flat-square\&logo=github)](https://github.com/adham-elarabawy/open-quadruped) ⭐ 516 | 🐛 11 | 🌐 C++ | 📅 2024-08-23 <img src="https://img.shields.io/github/stars/adham-elarabawy/open-quadruped?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Nate711-pupperv3--monorepo-black?style=flat-square\&logo=github)](https://github.com/Nate711/pupperv3-monorepo) ⭐ 66 | 🐛 2 | 🌐 C++ | 📅 2026-07-25 <img src="https://img.shields.io/github/stars/Nate711/pupperv3-monorepo?style=flat-square&color=yellow">
 
 </details>
 
 <details><summary><b>Models (URDF, MJCF, USD, etc.)</b></summary>
 
-* [![](https://img.shields.io/badge/google--deepmind-mujoco_menagerie-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,299 | 🐛 61 | 🌐 Python | 📅 2026-10-31 <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_menagerie?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/google--deepmind-mujoco_menagerie-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,306 | 🐛 60 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_menagerie?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/robot--descriptions-awesome--robot--descriptions-black?style=flat-square\&logo=github)](https://github.com/robot-descriptions/awesome-robot-descriptions) ⭐ 1,695 | 🐛 2 | 📅 2026-10-11 <img src="https://img.shields.io/github/stars/robot-descriptions/awesome-robot-descriptions?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Daniella1-urdf_files_dataset-black?style=flat-square\&logo=github)](https://github.com/Daniella1/urdf_files_dataset) ⭐ 592 | 🐛 3 | 🌐 Python | 📅 2024-04-06 <img src="https://img.shields.io/github/stars/Daniella1/urdf_files_dataset?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/erwincoumans-pybullet_robots-black?style=flat-square\&logo=github)](https://github.com/erwincoumans/pybullet_robots) ⭐ 578 | 🐛 9 | 🌐 Python | 📅 2026-02-12 <img src="https://img.shields.io/github/stars/erwincoumans/pybullet_robots?style=flat-square&color=yellow">
@@ -598,7 +598,7 @@
   * [![](https://img.shields.io/badge/LightwheelAI-mjcf2usd-black?style=flat-square\&logo=github)](https://github.com/LightwheelAI/mjcf2usd) ⭐ 154 | 🐛 1 | 🌐 Python | 📅 2025-08-08 <img src="https://img.shields.io/github/stars/LightwheelAI/mjcf2usd?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/LightwheelAI-Lightwheel_Kitchen-black?style=flat-square\&logo=github)](https://github.com/LightwheelAI/Lightwheel_Kitchen) ⭐ 112 | 🐛 2 | 📅 2025-07-14 <img src="https://img.shields.io/github/stars/LightwheelAI/Lightwheel_Kitchen?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/LightwheelAI-usd2mjcf-black?style=flat-square\&logo=github)](https://github.com/LightwheelAI/usd2mjcf) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2026-07-27 <img src="https://img.shields.io/github/stars/LightwheelAI/usd2mjcf?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/newton--physics-newton--assets-black?style=flat-square\&logo=github)](https://github.com/newton-physics/newton-assets) ⭐ 58 | 🐛 7 | 📅 2026-10-15 <img src="https://img.shields.io/github/stars/newton-physics/newton-assets?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/newton--physics-newton--assets-black?style=flat-square\&logo=github)](https://github.com/newton-physics/newton-assets) ⭐ 58 | 🐛 8 | 📅 2026-10-15 <img src="https://img.shields.io/github/stars/newton-physics/newton-assets?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/nicrusso7-rex--models-black?style=flat-square\&logo=github)](https://github.com/nicrusso7/rex-models) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2020-10-04 <img src="https://img.shields.io/github/stars/nicrusso7/rex-models?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/RoboticsDesignLab-jitterbug-black?style=flat-square\&logo=github)](https://github.com/RoboticsDesignLab/jitterbug) ⭐ 5 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-09-22 <img src="https://img.shields.io/github/stars/RoboticsDesignLab/jitterbug?style=flat-square&color=yellow">
 
@@ -608,23 +608,23 @@
 
 <details><summary><b>Simulation Platforms</b></summary>
 
-* [![](https://img.shields.io/badge/Genesis--Embodied--AI-Genesis-black?style=flat-square\&logo=github)](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 30,151 | 🐛 169 | 🌐 Python | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/google--deepmind-mujoco-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/mujoco) ⭐ 16,021 | 🐛 297 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/google-deepmind/mujoco?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/google--deepmind-mujoco_warp-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/mujoco_warp) ⭐ 1,595 | 🐛 99 | 🌐 Python | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_warp?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/bulletphysics-bullet3-black?style=flat-square\&logo=github)](https://github.com/bulletphysics/bullet3) ⭐ 14,840 | 🐛 437 | 🌐 C++ | 📅 2026-10-09 <img src="https://img.shields.io/github/stars/bulletphysics/bullet3?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/NVIDIA-warp-black?style=flat-square\&logo=github)](https://github.com/NVIDIA/warp) ⭐ 7,264 | 🐛 414 | 🌐 Python | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/NVIDIA/warp?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/newton--physics-newton-black?style=flat-square\&logo=github)](https://github.com/newton-physics/newton) ⭐ 5,876 | 🐛 431 | 🌐 Python | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/newton-physics/newton?style=flat-square&color=yellow"> [Conceptual background](https://deepwiki.com/newton-physics/newton)
+* [![](https://img.shields.io/badge/Genesis--Embodied--AI-Genesis-black?style=flat-square\&logo=github)](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 30,158 | 🐛 170 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/google--deepmind-mujoco-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/mujoco) ⭐ 16,038 | 🐛 298 | 🌐 C++ | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/google-deepmind/mujoco?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/google--deepmind-mujoco_warp-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/mujoco_warp) ⭐ 1,595 | 🐛 100 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_warp?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/bulletphysics-bullet3-black?style=flat-square\&logo=github)](https://github.com/bulletphysics/bullet3) ⭐ 14,842 | 🐛 438 | 🌐 C++ | 📅 2026-10-09 <img src="https://img.shields.io/github/stars/bulletphysics/bullet3?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/NVIDIA-warp-black?style=flat-square\&logo=github)](https://github.com/NVIDIA/warp) ⭐ 7,266 | 🐛 426 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/NVIDIA/warp?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/newton--physics-newton-black?style=flat-square\&logo=github)](https://github.com/newton-physics/newton) ⭐ 5,880 | 🐛 448 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/newton-physics/newton?style=flat-square&color=yellow"> [Conceptual background](https://deepwiki.com/newton-physics/newton)
   * [![](https://img.shields.io/badge/NVlabs-neural--robot--dynamics-black?style=flat-square\&logo=github)](https://github.com/NVlabs/neural-robot-dynamics) ⭐ 360 | 🐛 0 | 🌐 Python | 📅 2026-09-18 <img src="https://img.shields.io/github/stars/NVlabs/neural-robot-dynamics?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/rewarped-rewarped-black?style=flat-square\&logo=github)](https://github.com/rewarped/rewarped) ⭐ 200 | 🐛 3 | 🌐 Python | 📅 2026-03-03 <img src="https://img.shields.io/github/stars/rewarped/rewarped?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/NVIDIA-warp--nn-black?style=flat-square\&logo=github)](https://github.com/NVIDIA/warp-nn) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-10-18 <img src="https://img.shields.io/github/stars/NVIDIA/warp-nn?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/anthonyjclark-lwmr-black?style=flat-square\&logo=github)](https://github.com/anthonyjclark/lwmr) ⭐ 5 | 🐛 1 | 🌐 HTML | 📅 2026-10-11 <img src="https://img.shields.io/github/stars/anthonyjclark/lwmr?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/LightwheelAI-black?style=flat-square\&logo=github)](https://github.com/LightwheelAI)
     * [![](https://img.shields.io/badge/LightwheelAI-Newton--Lightwheel-black?style=flat-square\&logo=github)](https://github.com/LightwheelAI/Newton-Lightwheel) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2025-09-29 <img src="https://img.shields.io/github/stars/LightwheelAI/Newton-Lightwheel?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/isaac--sim-IsaacSim-black?style=flat-square\&logo=github)](https://github.com/isaac-sim/IsaacSim) ⭐ 4,406 | 🐛 110 | 🌐 Python | 📅 2026-10-27 <img src="https://img.shields.io/github/stars/isaac-sim/IsaacSim?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/LAAS--CNRS-Pinocchio-lightblue?style=flat-square)](https://stack-of-tasks.github.io/pinocchio) [![](https://img.shields.io/badge/stack--of--tasks-pinocchio-black?style=flat-square\&logo=github)](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,834 | 🐛 106 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/stack-of-tasks/pinocchio?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/isaac--sim-IsaacSim-black?style=flat-square\&logo=github)](https://github.com/isaac-sim/IsaacSim) ⭐ 4,416 | 🐛 109 | 🌐 Python | 📅 2026-10-27 <img src="https://img.shields.io/github/stars/isaac-sim/IsaacSim?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/LAAS--CNRS-Pinocchio-lightblue?style=flat-square)](https://stack-of-tasks.github.io/pinocchio) [![](https://img.shields.io/badge/stack--of--tasks-pinocchio-black?style=flat-square\&logo=github)](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,833 | 🐛 107 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/stack-of-tasks/pinocchio?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/Jiminy-lightblue?style=flat-square)](https://duburcqa.github.io/jiminy) [![](https://img.shields.io/badge/duburcqa-jiminy-black?style=flat-square\&logo=github)](https://github.com/duburcqa/jiminy) ⭐ 301 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2025-09-05 <img src="https://img.shields.io/github/stars/duburcqa/jiminy?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/google-brax-black?style=flat-square\&logo=github)](https://github.com/google/brax) ⭐ 3,253 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2026-10-20 <img src="https://img.shields.io/github/stars/google/brax?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/ami--iit-jaxsim-black?style=flat-square\&logo=github)](https://github.com/ami-iit/jaxsim) ⭐ 204 | 🐛 8 | 🌐 Python | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/ami-iit/jaxsim?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/ami--iit-jaxsim-black?style=flat-square\&logo=github)](https://github.com/ami-iit/jaxsim) ⭐ 204 | 🐛 7 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/ami-iit/jaxsim?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/erwincoumans-tiny--differentiable--simulator-black?style=flat-square\&logo=github)](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,376 | 🐛 12 | 🌐 C++ | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/erwincoumans/tiny-differentiable-simulator?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/raisimTech-raisimlib-black?style=flat-square\&logo=github)](https://github.com/raisimTech/raisimlib) ⚠️ Archived <img src="https://img.shields.io/github/stars/raisimTech/raisimlib?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/yougod6-RaiSim_Project-black?style=flat-square\&logo=github)](https://github.com/yougod6/RaiSim_Project) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2024-12-26 <img src="https://img.shields.io/github/stars/yougod6/RaiSim_Project?style=flat-square&color=yellow">
@@ -639,14 +639,14 @@
 
 <details><summary><b>Software frameworks</b></summary>
 
-* [![](https://img.shields.io/badge/AtsushiSakai-PythonRobotics-black?style=flat-square\&logo=github)](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,839 | 🐛 80 | 🌐 Python | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/AtsushiSakai/PythonRobotics?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/AtsushiSakai-PythonRobotics-black?style=flat-square\&logo=github)](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,845 | 🐛 82 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/AtsushiSakai/PythonRobotics?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/boston--dynamics-spot--sdk-black?style=flat-square\&logo=github)](https://github.com/boston-dynamics/spot-sdk) ⭐ 2,505 | 🐛 109 | 🌐 Python | 📅 2026-09-10 <img src="https://img.shields.io/github/stars/boston-dynamics/spot-sdk?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/pypose-pypose-black?style=flat-square\&logo=github)](https://github.com/pypose/pypose) ⭐ 1,620 | 🐛 53 | 🌐 Python | 📅 2026-10-25 <img src="https://img.shields.io/github/stars/pypose/pypose?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/unitreerobotics-unitree_sdk2-black?style=flat-square\&logo=github)](https://github.com/unitreerobotics/unitree_sdk2) ⭐ 1,426 | 🐛 15 | 🌐 C++ | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/unitreerobotics-unitree_mujoco-black?style=flat-square\&logo=github)](https://github.com/unitreerobotics/unitree_mujoco) ⭐ 1,273 | 🐛 68 | 🌐 C++ | 📅 2026-09-07 <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/robomechanics-quad--sdk-black?style=flat-square\&logo=github)](https://github.com/robomechanics/quad-sdk) ⭐ 974 | 🐛 5 | 🌐 C++ | 📅 2026-10-22 <img src="https://img.shields.io/github/stars/robomechanics/quad-sdk?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/pypose-pypose-black?style=flat-square\&logo=github)](https://github.com/pypose/pypose) ⭐ 1,620 | 🐛 54 | 🌐 Python | 📅 2026-10-25 <img src="https://img.shields.io/github/stars/pypose/pypose?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/unitreerobotics-unitree_sdk2-black?style=flat-square\&logo=github)](https://github.com/unitreerobotics/unitree_sdk2) ⭐ 1,431 | 🐛 15 | 🌐 C++ | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/unitreerobotics-unitree_mujoco-black?style=flat-square\&logo=github)](https://github.com/unitreerobotics/unitree_mujoco) ⭐ 1,280 | 🐛 68 | 🌐 C++ | 📅 2026-09-07 <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/robomechanics-quad--sdk-black?style=flat-square\&logo=github)](https://github.com/robomechanics/quad-sdk) ⭐ 974 | 🐛 5 | 🌐 C++ | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/robomechanics/quad-sdk?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/unitreerobotics-unitree_sdk2_python-black?style=flat-square\&logo=github)](https://github.com/unitreerobotics/unitree_sdk2_python) ⭐ 835 | 🐛 139 | 🌐 Python | 📅 2026-09-21 <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_python?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/ANYbotics-kindr-black?style=flat-square\&logo=github)](https://github.com/ANYbotics/kindr) ⭐ 617 | 🐛 29 | 🌐 C++ | 📅 2025-02-15 <img src="https://img.shields.io/github/stars/ANYbotics/kindr?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/ANYbotics-kindr-black?style=flat-square\&logo=github)](https://github.com/ANYbotics/kindr) ⭐ 616 | 🐛 29 | 🌐 C++ | 📅 2025-02-15 <img src="https://img.shields.io/github/stars/ANYbotics/kindr?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/google--deepmind-dm_robotics-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/dm_robotics) ⚠️ Archived <img src="https://img.shields.io/github/stars/google-deepmind/dm_robotics?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/heuristicus-spot_ros-black?style=flat-square\&logo=github)](https://github.com/heuristicus/spot_ros) ⭐ 295 | 🐛 27 | 🌐 Python | 📅 2025-03-05 <img src="https://img.shields.io/github/stars/heuristicus/spot_ros?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/bdaiinstitute-spot_ros2-black?style=flat-square\&logo=github)](https://github.com/bdaiinstitute/spot_ros2) ⭐ 294 | 🐛 16 | 🌐 C++ | 📅 2026-10-14 <img src="https://img.shields.io/github/stars/bdaiinstitute/spot_ros2?style=flat-square&color=yellow">
@@ -658,22 +658,22 @@
 
 <details><summary><b>&nbsp;&nbsp;- Learning frameworks</b></summary>
 
-* [![](https://img.shields.io/badge/isaac--sim-IsaacLab-black?style=flat-square\&logo=github)](https://github.com/isaac-sim/IsaacLab) ⭐ 8,549 | 🐛 408 | 🌐 Python | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/unitreerobotics-unitree_rl_lab-black?style=flat-square\&logo=github)](https://github.com/unitreerobotics/unitree_rl_lab) ⭐ 1,430 | 🐛 54 | 🌐 Python | 📅 2026-05-25 <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_lab?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/leggedrobotics-robotic_world_model-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/robotic_world_model) ⭐ 697 | 🐛 1 | 🌐 Python | 📅 2026-10-29 <img src="https://img.shields.io/github/stars/leggedrobotics/robotic_world_model?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/iit--DLSLab-basic--locomotion--dls--isaaclab-black?style=flat-square\&logo=github)](https://github.com/iit-DLSLab/basic-locomotion-dls-isaaclab) ⭐ 139 | 🐛 5 | 🌐 Python | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/iit-DLSLab/basic-locomotion-dls-isaaclab?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/google--deepmind-dm_control-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/dm_control) ⭐ 4,722 | 🐛 145 | 🌐 Python | 📅 2026-10-29 <img src="https://img.shields.io/github/stars/google-deepmind/dm_control?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/isaac--sim-IsaacLab-black?style=flat-square\&logo=github)](https://github.com/isaac-sim/IsaacLab) ⭐ 8,554 | 🐛 401 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/unitreerobotics-unitree_rl_lab-black?style=flat-square\&logo=github)](https://github.com/unitreerobotics/unitree_rl_lab) ⭐ 1,431 | 🐛 54 | 🌐 Python | 📅 2026-05-25 <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_lab?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/leggedrobotics-robotic_world_model-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/robotic_world_model) ⭐ 699 | 🐛 1 | 🌐 Python | 📅 2026-10-29 <img src="https://img.shields.io/github/stars/leggedrobotics/robotic_world_model?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/iit--DLSLab-basic--locomotion--dls--isaaclab-black?style=flat-square\&logo=github)](https://github.com/iit-DLSLab/basic-locomotion-dls-isaaclab) ⭐ 139 | 🐛 5 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/iit-DLSLab/basic-locomotion-dls-isaaclab?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/google--deepmind-dm_control-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/dm_control) ⭐ 4,723 | 🐛 145 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/google-deepmind/dm_control?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/leggedrobotics-legged_gym-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/legged_gym) ⭐ 3,170 | 🐛 59 | 🌐 Python | 📅 2025-05-29 <img src="https://img.shields.io/github/stars/leggedrobotics/legged_gym?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/isaac--sim-IsaacGymEnvs-black?style=flat-square\&logo=github)](https://github.com/isaac-sim/IsaacGymEnvs) ⚠️ Archived <img src="https://img.shields.io/github/stars/isaac-sim/IsaacGymEnvs?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/unitreerobotics-unitree_rl_gym-black?style=flat-square\&logo=github)](https://github.com/unitreerobotics/unitree_rl_gym) ⭐ 3,651 | 🐛 62 | 🌐 Python | 📅 2025-07-25 <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/google--deepmind-mujoco_playground-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/mujoco_playground) ⭐ 2,269 | 🐛 88 | 🌐 Python | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_playground?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/MJ-Playground--Quadrupedal-gray?style=flat-square\&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco_playground/blob/main/learning/notebooks/locomotion.ipynb#scrollTo=_R01tjWfI-i6)
-  * [![](https://img.shields.io/badge/mujocolab-mjlab-black?style=flat-square\&logo=github)](https://github.com/mujocolab/mjlab) ⭐ 3,312 | 🐛 57 | 🌐 Python | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/mujocolab/mjlab?style=flat-square&color=yellow">
-    * [![](https://img.shields.io/badge/unitreerobotics-unitree_rl_mjlab-black?style=flat-square\&logo=github)](https://github.com/unitreerobotics/unitree_rl_mjlab) ⭐ 716 | 🐛 45 | 🌐 C++ | 📅 2026-04-13 <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_mjlab?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/unitreerobotics-unitree_rl_gym-black?style=flat-square\&logo=github)](https://github.com/unitreerobotics/unitree_rl_gym) ⭐ 3,653 | 🐛 62 | 🌐 Python | 📅 2025-07-25 <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/google--deepmind-mujoco_playground-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/mujoco_playground) ⭐ 2,272 | 🐛 90 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_playground?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/MJ-Playground--Quadrupedal-gray?style=flat-square\&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco_playground/blob/main/learning/notebooks/locomotion.ipynb#scrollTo=_R01tjWfI-i6)
+  * [![](https://img.shields.io/badge/mujocolab-mjlab-black?style=flat-square\&logo=github)](https://github.com/mujocolab/mjlab) ⭐ 3,318 | 🐛 61 | 🌐 Python | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/mujocolab/mjlab?style=flat-square&color=yellow">
+    * [![](https://img.shields.io/badge/unitreerobotics-unitree_rl_mjlab-black?style=flat-square\&logo=github)](https://github.com/unitreerobotics/unitree_rl_mjlab) ⭐ 719 | 🐛 45 | 🌐 C++ | 📅 2026-04-13 <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_mjlab?style=flat-square&color=yellow">
     * [![](https://img.shields.io/badge/ccrpRepo-AMP_mjlab-black?style=flat-square\&logo=github)](https://github.com/ccrpRepo/AMP_mjlab) ⭐ 493 | 🐛 4 | 🌐 Python | 📅 2026-07-16 <img src="https://img.shields.io/github/stars/ccrpRepo/AMP_mjlab?style=flat-square&color=yellow"> - [Demo](https://imchong.github.io/Robot_Learning_Sim2Sim_Online)
     * [![](https://img.shields.io/badge/mujocolab-mjlab_playground-black?style=flat-square\&logo=github)](https://github.com/mujocolab/mjlab_playground) ⭐ 112 | 🐛 2 | 🌐 Python | 📅 2026-04-16 <img src="https://img.shields.io/github/stars/mujocolab/mjlab_playground?style=flat-square&color=yellow">
     * [![](https://img.shields.io/badge/mujocolab-anymal_c_velocity-black?style=flat-square\&logo=github)](https://github.com/mujocolab/anymal_c_velocity) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2026-02-15 <img src="https://img.shields.io/github/stars/mujocolab/anymal_c_velocity?style=flat-square&color=yellow">
     * [![](https://img.shields.io/badge/rsamf-add--gym-black?style=flat-square\&logo=github)](https://github.com/rsamf/add-gym) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-02-28 <img src="https://img.shields.io/github/stars/rsamf/add-gym?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/nicrusso7-rex--gym-black?style=flat-square\&logo=github)](https://github.com/nicrusso7/rex-gym) ⭐ 1,106 | 🐛 13 | 🌐 Python | 📅 2023-03-24 <img src="https://img.shields.io/github/stars/nicrusso7/rex-gym?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/nicrusso7-rex--gym-black?style=flat-square\&logo=github)](https://github.com/nicrusso7/rex-gym) ⭐ 1,107 | 🐛 13 | 🌐 Python | 📅 2023-03-24 <img src="https://img.shields.io/github/stars/nicrusso7/rex-gym?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/isaac--sim-OmniIsaacGymEnvs-black?style=flat-square\&logo=github)](https://github.com/isaac-sim/OmniIsaacGymEnvs) ⚠️ Archived <img src="https://img.shields.io/github/stars/isaac-sim/OmniIsaacGymEnvs?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/vikashplus-robohive-black?style=flat-square\&logo=github)](https://github.com/vikashplus/robohive) ⭐ 632 | 🐛 24 | 🌐 Python | 📅 2026-09-22 <img src="https://img.shields.io/github/stars/vikashplus/robohive?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/rewarped-rewarped-black?style=flat-square\&logo=github)](https://github.com/rewarped/rewarped) ⭐ 200 | 🐛 3 | 🌐 Python | 📅 2026-03-03 <img src="https://img.shields.io/github/stars/rewarped/rewarped?style=flat-square&color=yellow">
@@ -681,7 +681,7 @@
 * [![](https://img.shields.io/badge/darshmenon-quadruped--dog--rl-black?style=flat-square\&logo=github)](https://github.com/darshmenon/quadruped-dog-rl) ⭐ 28 | 🐛 0 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/darshmenon/quadruped-dog-rl?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/RoLACLab-mpc--and--rl--benchmark-black?style=flat-square\&logo=github)](https://github.com/RoLACLab/mpc-and-rl-benchmark) ⭐ 12 | 🐛 0 | 📅 2025-06-10 <img src="https://img.shields.io/github/stars/RoLACLab/mpc-and-rl-benchmark?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Genesis--Learning-lightblue?style=flat-square)](https://genesis-world.readthedocs.io)
-  * [![](https://img.shields.io/badge/lupinjia-genesis_lr-black?style=flat-square\&logo=github)](https://github.com/lupinjia/genesis_lr) ⭐ 384 | 🐛 1 | 🌐 Python | 📅 2026-08-24 <img src="https://img.shields.io/github/stars/lupinjia/genesis_lr?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/lupinjia-genesis_lr-black?style=flat-square\&logo=github)](https://github.com/lupinjia/genesis_lr) ⭐ 383 | 🐛 1 | 🌐 Python | 📅 2026-08-24 <img src="https://img.shields.io/github/stars/lupinjia/genesis_lr?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/Argo--Robot-quadrupeds_locomotion-black?style=flat-square\&logo=github)](https://github.com/Argo-Robot/quadrupeds_locomotion) ⭐ 303 | 🐛 2 | 🌐 Python | 📅 2025-02-26 <img src="https://img.shields.io/github/stars/Argo-Robot/quadrupeds_locomotion?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/ziyanx02-Genesis--backflip-black?style=flat-square\&logo=github)](https://github.com/ziyanx02/Genesis-backflip) ⭐ 176 | 🐛 4 | 🌐 Python | 📅 2025-01-16 <img src="https://img.shields.io/github/stars/ziyanx02/Genesis-backflip?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/RochelleNi-GenesisEnvs-black?style=flat-square\&logo=github)](https://github.com/RochelleNi/GenesisEnvs) ⭐ 136 | 🐛 1 | 🌐 Python | 📅 2026-01-31 <img src="https://img.shields.io/github/stars/RochelleNi/GenesisEnvs?style=flat-square&color=yellow">
@@ -691,22 +691,22 @@
 
 <details><summary><b>&nbsp;&nbsp;- System identification frameworks</b></summary>
 
-* [![](https://img.shields.io/badge/leggedrobotics-pace--sim2real-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/pace-sim2real) ⭐ 834 | 🐛 2 | 🌐 Python | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/leggedrobotics/pace-sim2real?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/roahmlab-ConstrainedSysID-black?style=flat-square\&logo=github)](https://github.com/roahmlab/ConstrainedSysID) ⭐ 37 | 🐛 0 | 🌐 MATLAB | 📅 2025-02-27 <img src="https://img.shields.io/github/stars/roahmlab/ConstrainedSysID?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/leggedrobotics-pace--sim2real-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/pace-sim2real) ⭐ 843 | 🐛 2 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/leggedrobotics/pace-sim2real?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/roahmlab-ConstrainedSysID-black?style=flat-square\&logo=github)](https://github.com/roahmlab/ConstrainedSysID) ⭐ 36 | 🐛 0 | 🌐 MATLAB | 📅 2025-02-27 <img src="https://img.shields.io/github/stars/roahmlab/ConstrainedSysID?style=flat-square&color=yellow">
 
 </details>
 
 <details><summary><b>Locomotion Learning</b></summary>
 
-* [![](https://img.shields.io/badge/danijar-dreamerv3-black?style=flat-square\&logo=github)](https://github.com/danijar/dreamerv3) ⭐ 3,932 | 🐛 79 | 🌐 Python | 📅 2026-10-04 <img src="https://img.shields.io/github/stars/danijar/dreamerv3?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/danijar-dreamerv3-black?style=flat-square\&logo=github)](https://github.com/danijar/dreamerv3) ⭐ 3,936 | 🐛 79 | 🌐 Python | 📅 2026-10-04 <img src="https://img.shields.io/github/stars/danijar/dreamerv3?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/NM512-dreamerv3--torch-black?style=flat-square\&logo=github)](https://github.com/NM512/dreamerv3-torch) ⚠️ Archived <img src="https://img.shields.io/github/stars/NM512/dreamerv3-torch?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/danijar-daydreamer-black?style=flat-square\&logo=github)](https://github.com/danijar/daydreamer) ⭐ 469 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-12-19 <img src="https://img.shields.io/github/stars/danijar/daydreamer?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/leggedrobotics-rsl_rl-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/rsl_rl) ⭐ 3,113 | 🐛 12 | 🌐 Python | 📅 2026-10-28 <img src="https://img.shields.io/github/stars/leggedrobotics/rsl_rl?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/Improbable--AI-walk--these--ways-black?style=flat-square\&logo=github)](https://github.com/Improbable-AI/walk-these-ways) ⭐ 1,470 | 🐛 9 | 🌐 Python | 📅 2024-06-16 <img src="https://img.shields.io/github/stars/Improbable-AI/walk-these-ways?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/danijar-daydreamer-black?style=flat-square\&logo=github)](https://github.com/danijar/daydreamer) ⭐ 470 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-12-19 <img src="https://img.shields.io/github/stars/danijar/daydreamer?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/leggedrobotics-rsl_rl-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/rsl_rl) ⭐ 3,113 | 🐛 13 | 🌐 Python | 📅 2026-10-28 <img src="https://img.shields.io/github/stars/leggedrobotics/rsl_rl?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/Improbable--AI-walk--these--ways-black?style=flat-square\&logo=github)](https://github.com/Improbable-AI/walk-these-ways) ⭐ 1,469 | 🐛 9 | 🌐 Python | 📅 2024-06-16 <img src="https://img.shields.io/github/stars/Improbable-AI/walk-these-ways?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ZiwenZhuang-parkour-black?style=flat-square\&logo=github)](https://github.com/ZiwenZhuang/parkour) ⭐ 1,142 | 🐛 38 | 🌐 Python | 📅 2025-10-26 <img src="https://img.shields.io/github/stars/ZiwenZhuang/parkour?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/abizovnuralem-go2_omniverse-black?style=flat-square\&logo=github)](https://github.com/abizovnuralem/go2_omniverse) ⭐ 1,091 | 🐛 17 | 🌐 Python | 📅 2026-07-01 <img src="https://img.shields.io/github/stars/abizovnuralem/go2_omniverse?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/InternRobotics-HIMLoco-black?style=flat-square\&logo=github)](https://github.com/InternRobotics/HIMLoco) ⭐ 982 | 🐛 23 | 🌐 Python | 📅 2024-05-14 <img src="https://img.shields.io/github/stars/InternRobotics/HIMLoco?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/OpenQuadruped-spot_mini_mini-black?style=flat-square\&logo=github)](https://github.com/OpenQuadruped/spot_mini_mini) ⭐ 950 | 🐛 13 | 🌐 C++ | 📅 2022-10-05 <img src="https://img.shields.io/github/stars/OpenQuadruped/spot_mini_mini?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/abizovnuralem-go2_omniverse-black?style=flat-square\&logo=github)](https://github.com/abizovnuralem/go2_omniverse) ⭐ 1,092 | 🐛 17 | 🌐 Python | 📅 2026-07-01 <img src="https://img.shields.io/github/stars/abizovnuralem/go2_omniverse?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/InternRobotics-HIMLoco-black?style=flat-square\&logo=github)](https://github.com/InternRobotics/HIMLoco) ⭐ 985 | 🐛 23 | 🌐 Python | 📅 2024-05-14 <img src="https://img.shields.io/github/stars/InternRobotics/HIMLoco?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/OpenQuadruped-spot_mini_mini-black?style=flat-square\&logo=github)](https://github.com/OpenQuadruped/spot_mini_mini) ⭐ 951 | 🐛 13 | 🌐 C++ | 📅 2022-10-05 <img src="https://img.shields.io/github/stars/OpenQuadruped/spot_mini_mini?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/eureka--research-DrEureka-black?style=flat-square\&logo=github)](https://github.com/eureka-research/DrEureka) ⭐ 947 | 🐛 18 | 🌐 Python | 📅 2024-08-26 <img src="https://img.shields.io/github/stars/eureka-research/DrEureka?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/LeCAR--Lab-ABS-black?style=flat-square\&logo=github)](https://github.com/LeCAR-Lab/ABS) ⭐ 630 | 🐛 4 | 🌐 Python | 📅 2024-07-11 <img src="https://img.shields.io/github/stars/LeCAR-Lab/ABS?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/gaiyi7788-awesome--legged--locomotion--learning-black?style=flat-square\&logo=github)](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) ⭐ 488 | 🐛 0 | 📅 2023-07-10 <img src="https://img.shields.io/github/stars/gaiyi7788/awesome-legged-locomotion-learning?style=flat-square&color=yellow">
@@ -714,10 +714,10 @@
 * [![](https://img.shields.io/badge/leggedrobotics-learning_quadrupedal_locomotion_over_challenging_terrain_supplementary-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/learning_quadrupedal_locomotion_over_challenging_terrain_supplementary) ⭐ 253 | 🐛 1 | 🌐 C++ | 📅 2020-10-27 <img src="https://img.shields.io/github/stars/leggedrobotics/learning_quadrupedal_locomotion_over_challenging_terrain_supplementary?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/nico--bohlinger-one_policy_to_run_them_all-black?style=flat-square\&logo=github)](https://github.com/nico-bohlinger/one_policy_to_run_them_all) ⭐ 231 | 🐛 1 | 🌐 Python | 📅 2025-05-15 <img src="https://img.shields.io/github/stars/nico-bohlinger/one_policy_to_run_them_all?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/carlosferrazza-BodyTransformer-black?style=flat-square\&logo=github)](https://github.com/carlosferrazza/BodyTransformer) ⭐ 206 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-09-18 <img src="https://img.shields.io/github/stars/carlosferrazza/BodyTransformer?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/zst1406217-VR--Robo-black?style=flat-square\&logo=github)](https://github.com/zst1406217/VR-Robo) ⭐ 196 | 🐛 0 | 🌐 Python | 📅 2025-06-20 <img src="https://img.shields.io/github/stars/zst1406217/VR-Robo?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/zst1406217-VR--Robo-black?style=flat-square\&logo=github)](https://github.com/zst1406217/VR-Robo) ⭐ 197 | 🐛 0 | 🌐 Python | 📅 2025-06-20 <img src="https://img.shields.io/github/stars/zst1406217/VR-Robo?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ziyanx02-Genesis--backflip-black?style=flat-square\&logo=github)](https://github.com/ziyanx02/Genesis-backflip) ⭐ 176 | 🐛 4 | 🌐 Python | 📅 2025-01-16 <img src="https://img.shields.io/github/stars/ziyanx02/Genesis-backflip?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Improbable--AI-dribblebot-black?style=flat-square\&logo=github)](https://github.com/Improbable-AI/dribblebot) ⭐ 143 | 🐛 4 | 🌐 Python | 📅 2023-10-25 <img src="https://img.shields.io/github/stars/Improbable-AI/dribblebot?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/yxyang-jumping_cod-black?style=flat-square\&logo=github)](https://github.com/yxyang/jumping_cod) ⭐ 131 | 🐛 1 | 🌐 Python | 📅 2024-09-19 <img src="https://img.shields.io/github/stars/yxyang/jumping_cod?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/yxyang-jumping_cod-black?style=flat-square\&logo=github)](https://github.com/yxyang/jumping_cod) ⭐ 130 | 🐛 1 | 🌐 Python | 📅 2024-09-19 <img src="https://img.shields.io/github/stars/yxyang/jumping_cod?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/yunifuchioka-opt--mimic--robot--deploy-black?style=flat-square\&logo=github)](https://github.com/yunifuchioka/opt-mimic-robot-deploy) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2022-10-06 <img src="https://img.shields.io/github/stars/yunifuchioka/opt-mimic-robot-deploy?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/zst1406217-robust_robot_walker-black?style=flat-square\&logo=github)](https://github.com/zst1406217/robust_robot_walker) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2025-04-28 <img src="https://img.shields.io/github/stars/zst1406217/robust_robot_walker?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/awesomericky-quadruped--robot--belief--encoder-black?style=flat-square\&logo=github)](https://github.com/awesomericky/quadruped-robot-belief-encoder) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2023-05-31 <img src="https://img.shields.io/github/stars/awesomericky/quadruped-robot-belief-encoder?style=flat-square&color=yellow">
@@ -743,17 +743,17 @@
 
 <details><summary><b>&nbsp;&nbsp;- Locomotion Learning: Motion Immitation</b></summary>
 
-* [![](https://img.shields.io/badge/xbpeng-MimicKit-black?style=flat-square\&logo=github)](https://github.com/xbpeng/MimicKit) ⭐ 2,410 | 🐛 27 | 🌐 Python | 📅 2026-10-17 <img src="https://img.shields.io/github/stars/xbpeng/MimicKit?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/erwincoumans-motion_imitation-black?style=flat-square\&logo=github)](https://github.com/erwincoumans/motion_imitation) ⭐ 1,473 | 🐛 15 | 🌐 Python | 📅 2023-03-24 <img src="https://img.shields.io/github/stars/erwincoumans/motion_imitation?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/HybridRobotics-DiffuseLoco-black?style=flat-square\&logo=github)](https://github.com/HybridRobotics/DiffuseLoco) ⭐ 200 | 🐛 8 | 🌐 Python | 📅 2025-04-14 <img src="https://img.shields.io/github/stars/HybridRobotics/DiffuseLoco?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/xbpeng-MimicKit-black?style=flat-square\&logo=github)](https://github.com/xbpeng/MimicKit) ⭐ 2,411 | 🐛 27 | 🌐 Python | 📅 2026-10-17 <img src="https://img.shields.io/github/stars/xbpeng/MimicKit?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/erwincoumans-motion_imitation-black?style=flat-square\&logo=github)](https://github.com/erwincoumans/motion_imitation) ⭐ 1,472 | 🐛 15 | 🌐 Python | 📅 2023-03-24 <img src="https://img.shields.io/github/stars/erwincoumans/motion_imitation?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/HybridRobotics-DiffuseLoco-black?style=flat-square\&logo=github)](https://github.com/HybridRobotics/DiffuseLoco) ⭐ 201 | 🐛 8 | 🌐 Python | 📅 2025-04-14 <img src="https://img.shields.io/github/stars/HybridRobotics/DiffuseLoco?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/johnzhang3-SLoMo-black?style=flat-square\&logo=github)](https://github.com/johnzhang3/SLoMo) ⭐ 88 | 🐛 2 | 📅 2024-07-17 <img src="https://img.shields.io/github/stars/johnzhang3/SLoMo?style=flat-square&color=yellow">
 
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Locomotion Learning: Symmetry</b></summary>
 
-* [![](https://img.shields.io/badge/leggedrobotics-rsl_rl-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/rsl_rl) ⭐ 3,113 | 🐛 12 | 🌐 Python | 📅 2026-10-28 <img src="https://img.shields.io/github/stars/leggedrobotics/rsl_rl?style=flat-square&color=yellow"> [Symmetry Considerations for Learning Task Symmetric Robot Policies](https://arxiv.org/abs/2403.04359) - [Example](https://github.com/leggedrobotics/rsl_rl/issues/64) ⭐ 3,113 | 🐛 12 | 🌐 Python | 📅 2026-10-28
-  * [![](https://img.shields.io/badge/isaac--sim-IsaacLab--Locomotion--Symmetry-black?style=flat-square\&logo=github)](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/manager_based/locomotion/velocity/mdp/symmetry) ⭐ 8,549 | 🐛 408 | 🌐 Python | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/leggedrobotics-rsl_rl-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/rsl_rl) ⭐ 3,113 | 🐛 13 | 🌐 Python | 📅 2026-10-28 <img src="https://img.shields.io/github/stars/leggedrobotics/rsl_rl?style=flat-square&color=yellow"> [Symmetry Considerations for Learning Task Symmetric Robot Policies](https://arxiv.org/abs/2403.04359) - [Example](https://github.com/leggedrobotics/rsl_rl/issues/64) ⭐ 3,113 | 🐛 13 | 🌐 Python | 📅 2026-10-28
+  * [![](https://img.shields.io/badge/isaac--sim-IsaacLab--Locomotion--Symmetry-black?style=flat-square\&logo=github)](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/manager_based/locomotion/velocity/mdp/symmetry) ⭐ 8,554 | 🐛 401 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Danfoa-MorphoSymm-black?style=flat-square\&logo=github)](https://github.com/Danfoa/MorphoSymm) ⭐ 111 | 🐛 2 | 🌐 Python | 📅 2026-05-07 <img src="https://img.shields.io/github/stars/Danfoa/MorphoSymm?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/HybridRobotics-SymmLoco-black?style=flat-square\&logo=github)](https://github.com/HybridRobotics/SymmLoco) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2024-10-11 <img src="https://img.shields.io/github/stars/HybridRobotics/SymmLoco?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/lunarlab--gatech-Morphology--Informed--HGNN-black?style=flat-square\&logo=github)](https://github.com/lunarlab-gatech/Morphology-Informed-HGNN) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2026-07-18 <img src="https://img.shields.io/github/stars/lunarlab-gatech/Morphology-Informed-HGNN?style=flat-square&color=yellow">
@@ -764,18 +764,19 @@
 
 <details><summary><b>&nbsp;&nbsp;- Loco-Manipulation Learning</b></summary>
 
-* [![](https://img.shields.io/badge/real--stanford-umi--on--legs-black?style=flat-square\&logo=github)](https://github.com/real-stanford/umi-on-legs) ⭐ 561 | 🐛 2 | 🌐 Python | 📅 2026-07-20 <img src="https://img.shields.io/github/stars/real-stanford/umi-on-legs?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/real--stanford-umi--on--legs-black?style=flat-square\&logo=github)](https://github.com/real-stanford/umi-on-legs) ⭐ 562 | 🐛 2 | 🌐 Python | 📅 2026-07-20 <img src="https://img.shields.io/github/stars/real-stanford/umi-on-legs?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Ericonaldo-visual_wholebody-black?style=flat-square\&logo=github)](https://github.com/Ericonaldo/visual_wholebody) ⭐ 458 | 🐛 17 | 🌐 Python | 📅 2024-08-15 <img src="https://img.shields.io/github/stars/Ericonaldo/visual_wholebody?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/aCodeDog-legged--robots--manipulation-black?style=flat-square\&logo=github)](https://github.com/aCodeDog/legged-robots-manipulation) ⭐ 423 | 🐛 8 | 🌐 Python | 📅 2025-07-10 <img src="https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/MarkFzp-Deep--Whole--Body--Control-black?style=flat-square\&logo=github)](https://github.com/MarkFzp/Deep-Whole-Body-Control) ⭐ 411 | 🐛 10 | 🌐 Python | 📅 2024-01-17 <img src="https://img.shields.io/github/stars/MarkFzp/Deep-Whole-Body-Control?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/aCodeDog-awesome--loco--manipulation-black?style=flat-square\&logo=github)](https://github.com/aCodeDog/awesome-loco-manipulation) ⭐ 335 | 🐛 0 | 🌐 CMake | 📅 2026-06-25 <img src="https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/locomanip--duet-RoboDuet-black?style=flat-square\&logo=github)](https://github.com/locomanip-duet/RoboDuet) ⭐ 190 | 🐛 5 | 🌐 Python | 📅 2026-04-09 <img src="https://img.shields.io/github/stars/locomanip-duet/RoboDuet?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/aCodeDog-awesome--loco--manipulation-black?style=flat-square\&logo=github)](https://github.com/aCodeDog/awesome-loco-manipulation) ⭐ 336 | 🐛 0 | 🌐 CMake | 📅 2026-06-25 <img src="https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/locomanip--duet-RoboDuet-black?style=flat-square\&logo=github)](https://github.com/locomanip-duet/RoboDuet) ⭐ 191 | 🐛 5 | 🌐 Python | 📅 2026-04-09 <img src="https://img.shields.io/github/stars/locomanip-duet/RoboDuet?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Improbable--AI-learning--compliance-black?style=flat-square\&logo=github)](https://github.com/Improbable-AI/learning-compliance) ⭐ 188 | 🐛 3 | 🌐 Python | 📅 2024-09-27 <img src="https://img.shields.io/github/stars/Improbable-AI/learning-compliance?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/catachiii-rambo-black?style=flat-square\&logo=github)](https://github.com/catachiii/rambo) ⭐ 122 | 🐛 0 | 🌐 Python | 📅 2025-07-23 <img src="https://img.shields.io/github/stars/catachiii/rambo?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/catachiii-rambo-black?style=flat-square\&logo=github)](https://github.com/catachiii/rambo) ⭐ 123 | 🐛 0 | 🌐 Python | 📅 2025-07-23 <img src="https://img.shields.io/github/stars/catachiii/rambo?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/bdaiinstitute-relic-black?style=flat-square\&logo=github)](https://github.com/bdaiinstitute/relic) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2026-04-09 <img src="https://img.shields.io/github/stars/bdaiinstitute/relic?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/chrisyrniu-Human2LocoMan-black?style=flat-square\&logo=github)](https://github.com/chrisyrniu/Human2LocoMan) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2026-01-15 <img src="https://img.shields.io/github/stars/chrisyrniu/Human2LocoMan?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/bdaiinstitute-jacta--manipulation-black?style=flat-square\&logo=github)](https://github.com/bdaiinstitute/jacta-manipulation) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-11-10 <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/MoDeSuite-lightblue?style=flat-square)](https://sites.google.com/view/modesuite) [![](https://img.shields.io/badge/Robot--Learning--Task--Suite--for--Benchmarking--Mobile--Manipulation--with--Deformable--Objects-darkred?style=flat-square\&logo=arxiv)](https://arxiv.org/abs/2507.21796)
+* [![](https://img.shields.io/badge/MoDeSuite-lightblue?style=flat-square)](https://sites.google.com/view/modesuite) [![](https://img.shields.io/badge/carolzyy-MoDeSuite-black?style=flat-square\&logo=github)](https://github.com/carolzyy/MoDeSuite) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-05-07 <img src="https://img.shields.io/github/stars/carolzyy/MoDeSuite?style=flat-square&color=yellow">
+  [![](https://img.shields.io/badge/Robot--Learning--Task--Suite--for--Benchmarking--Mobile--Manipulation--with--Deformable--Objects-darkred?style=flat-square\&logo=arxiv)](https://arxiv.org/abs/2507.21796)
 * [![](https://img.shields.io/badge/ODYSSEY--Bench-lightblue?style=flat-square)](https://kaijwang.github.io/odyssey.github.io) [Arxiv](https://arxiv.org/abs/2508.08240)
 
 </details>
@@ -789,10 +790,10 @@
 <details><summary><b>Kinematics</b></summary>
 
 * [![](https://img.shields.io/badge/chungmin99-pyroki-black?style=flat-square\&logo=github)](https://github.com/chungmin99/pyroki) ⭐ 1,813 | 🐛 31 | 🌐 Python | 📅 2026-04-01 <img src="https://img.shields.io/github/stars/chungmin99/pyroki?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/kevinzakka-mink-black?style=flat-square\&logo=github)](https://github.com/kevinzakka/mink) ⭐ 1,592 | 🐛 6 | 🌐 Python | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/kevinzakka/mink?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/stephane--caron-pink-black?style=flat-square\&logo=github)](https://github.com/stephane-caron/pink) ⭐ 869 | 🐛 3 | 🌐 Python | 📅 2026-09-27 <img src="https://img.shields.io/github/stars/stephane-caron/pink?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/ANYbotics-kindr-black?style=flat-square\&logo=github)](https://github.com/ANYbotics/kindr) ⭐ 617 | 🐛 29 | 🌐 C++ | 📅 2025-02-15 <img src="https://img.shields.io/github/stars/ANYbotics/kindr?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/rhoban-placo-black?style=flat-square\&logo=github)](https://github.com/rhoban/placo) ⭐ 385 | 🐛 16 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/rhoban/placo?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/kevinzakka-mink-black?style=flat-square\&logo=github)](https://github.com/kevinzakka/mink) ⭐ 1,592 | 🐛 6 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/kevinzakka/mink?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/stephane--caron-pink-black?style=flat-square\&logo=github)](https://github.com/stephane-caron/pink) ⭐ 870 | 🐛 3 | 🌐 Python | 📅 2026-09-27 <img src="https://img.shields.io/github/stars/stephane-caron/pink?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/ANYbotics-kindr-black?style=flat-square\&logo=github)](https://github.com/ANYbotics/kindr) ⭐ 616 | 🐛 29 | 🌐 C++ | 📅 2025-02-15 <img src="https://img.shields.io/github/stars/ANYbotics/kindr?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/rhoban-placo-black?style=flat-square\&logo=github)](https://github.com/rhoban/placo) ⭐ 386 | 🐛 16 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/rhoban/placo?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/based--robotics-mjinx-black?style=flat-square\&logo=github)](https://github.com/based-robotics/mjinx) ⭐ 161 | 🐛 5 | 🌐 Python | 📅 2026-08-23 <img src="https://img.shields.io/github/stars/based-robotics/mjinx?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/mike4192-spot_micro_kinematics_python-black?style=flat-square\&logo=github)](https://github.com/mike4192/spot_micro_kinematics_python) ⭐ 38 | 🐛 6 | 🌐 Python | 📅 2023-03-06 <img src="https://img.shields.io/github/stars/mike4192/spot_micro_kinematics_python?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Technician13-QuadrupedInverseKinematic-black?style=flat-square\&logo=github)](https://github.com/Technician13/QuadrupedInverseKinematic) ⭐ 28 | 🐛 0 | 🌐 C++ | 📅 2022-04-21 <img src="https://img.shields.io/github/stars/Technician13/QuadrupedInverseKinematic?style=flat-square&color=yellow">
@@ -802,12 +803,12 @@
 
 <details><summary><b>Dynamics</b></summary>
 
-* [![](https://img.shields.io/badge/stack--of--tasks-pinocchio-black?style=flat-square\&logo=github)](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,834 | 🐛 106 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/stack-of-tasks/pinocchio?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/loco--3d-crocoddyl-black?style=flat-square\&logo=github)](https://github.com/loco-3d/crocoddyl) ⭐ 1,322 | 🐛 20 | 🌐 C++ | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/loco-3d/crocoddyl?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/stack--of--tasks-pinocchio-black?style=flat-square\&logo=github)](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,833 | 🐛 107 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/stack-of-tasks/pinocchio?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/loco--3d-crocoddyl-black?style=flat-square\&logo=github)](https://github.com/loco-3d/crocoddyl) ⭐ 1,323 | 🐛 20 | 🌐 C++ | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/loco-3d/crocoddyl?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/ymontmarin-_tps_robotique-black?style=flat-square\&logo=github)](https://github.com/ymontmarin/_tps_robotique) ⭐ 112 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-14 <img src="https://img.shields.io/github/stars/ymontmarin/_tps_robotique?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/pypose-pypose-black?style=flat-square\&logo=github)](https://github.com/pypose/pypose) ⭐ 1,620 | 🐛 53 | 🌐 Python | 📅 2026-10-25 <img src="https://img.shields.io/github/stars/pypose/pypose?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/ANYbotics-kindr-black?style=flat-square\&logo=github)](https://github.com/ANYbotics/kindr) ⭐ 617 | 🐛 29 | 🌐 C++ | 📅 2025-02-15 <img src="https://img.shields.io/github/stars/ANYbotics/kindr?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/rhoban-placo-black?style=flat-square\&logo=github)](https://github.com/rhoban/placo) ⭐ 385 | 🐛 16 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/rhoban/placo?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/pypose-pypose-black?style=flat-square\&logo=github)](https://github.com/pypose/pypose) ⭐ 1,620 | 🐛 54 | 🌐 Python | 📅 2026-10-25 <img src="https://img.shields.io/github/stars/pypose/pypose?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/ANYbotics-kindr-black?style=flat-square\&logo=github)](https://github.com/ANYbotics/kindr) ⭐ 616 | 🐛 29 | 🌐 C++ | 📅 2025-02-15 <img src="https://img.shields.io/github/stars/ANYbotics/kindr?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/rhoban-placo-black?style=flat-square\&logo=github)](https://github.com/rhoban/placo) ⭐ 386 | 🐛 16 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/rhoban/placo?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/stack--of--tasks-tsid-black?style=flat-square\&logo=github)](https://github.com/stack-of-tasks/tsid) ⭐ 356 | 🐛 3 | 🌐 C++ | 📅 2026-10-20 <img src="https://img.shields.io/github/stars/stack-of-tasks/tsid?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Danfoa-DynamicsHarmonicsAnalysis-black?style=flat-square\&logo=github)](https://github.com/Danfoa/DynamicsHarmonicsAnalysis) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-03-19 <img src="https://img.shields.io/github/stars/Danfoa/DynamicsHarmonicsAnalysis?style=flat-square&color=yellow">
 
@@ -815,14 +816,14 @@
 
 <details><summary><b>Control</b></summary>
 
-* [![](https://img.shields.io/badge/chvmp-champ-black?style=flat-square\&logo=github)](https://github.com/chvmp/champ) ⭐ 2,334 | 🐛 54 | 🌐 C++ | 📅 2024-07-04 <img src="https://img.shields.io/github/stars/chvmp/champ?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/chvmp-champ-black?style=flat-square\&logo=github)](https://github.com/chvmp/champ) ⭐ 2,336 | 🐛 54 | 🌐 C++ | 📅 2024-07-04 <img src="https://img.shields.io/github/stars/chvmp/champ?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/chvmp-libchamp-black?style=flat-square\&logo=github)](https://github.com/chvmp/libchamp) ⭐ 36 | 🐛 0 | 🌐 C++ | 📅 2022-11-29 <img src="https://img.shields.io/github/stars/chvmp/libchamp?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/chvmp-chicken_head-black?style=flat-square\&logo=github)](https://github.com/chvmp/chicken_head) ⭐ 30 | 🐛 1 | 🌐 C++ | 📅 2021-03-19 <img src="https://img.shields.io/github/stars/chvmp/chicken_head?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/qiayuanl-legged_control-black?style=flat-square\&logo=github)](https://github.com/qiayuanl/legged_control) ⭐ 1,844 | 🐛 38 | 🌐 C++ | 📅 2025-02-13 <img src="https://img.shields.io/github/stars/qiayuanl/legged_control?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/leggedrobotics-ocs2-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/ocs2) ⭐ 1,535 | 🐛 54 | 🌐 C++ | 📅 2026-09-29 <img src="https://img.shields.io/github/stars/leggedrobotics/ocs2?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/loco--3d-crocoddyl-black?style=flat-square\&logo=github)](https://github.com/loco-3d/crocoddyl) ⭐ 1,322 | 🐛 20 | 🌐 C++ | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/loco-3d/crocoddyl?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/loco--3d-crocoddyl-black?style=flat-square\&logo=github)](https://github.com/loco-3d/crocoddyl) ⭐ 1,323 | 🐛 20 | 🌐 C++ | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/loco-3d/crocoddyl?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ethz--adrl-towr-black?style=flat-square\&logo=github)](https://github.com/ethz-adrl/towr) ⭐ 1,087 | 🐛 27 | 🌐 C++ | 📅 2023-04-17 <img src="https://img.shields.io/github/stars/ethz-adrl/towr?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/rhoban-placo-black?style=flat-square\&logo=github)](https://github.com/rhoban/placo) ⭐ 385 | 🐛 16 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/rhoban/placo?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/rhoban-placo-black?style=flat-square\&logo=github)](https://github.com/rhoban/placo) ⭐ 386 | 🐛 16 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/rhoban/placo?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Derek--TH--Wang-quadruped_ctrl-black?style=flat-square\&logo=github)](https://github.com/Derek-TH-Wang/quadruped_ctrl) ⭐ 360 | 🐛 10 | 🌐 C++ | 📅 2022-06-14 <img src="https://img.shields.io/github/stars/Derek-TH-Wang/quadruped_ctrl?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/mayataka-robotoc-black?style=flat-square\&logo=github)](https://github.com/mayataka/robotoc) ⭐ 312 | 🐛 14 | 🌐 C++ | 📅 2022-12-22 <img src="https://img.shields.io/github/stars/mayataka/robotoc?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ADVRHumanoids-horizon-black?style=flat-square\&logo=github)](https://github.com/ADVRHumanoids/horizon) ⭐ 86 | 🐛 15 | 🌐 Python | 📅 2026-08-03 <img src="https://img.shields.io/github/stars/ADVRHumanoids/horizon?style=flat-square&color=yellow">
@@ -834,12 +835,12 @@
 
 <details><summary><b>MPC</b></summary>
 
-* [![](https://img.shields.io/badge/google--deepmind-mujoco_mpc-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/mujoco_mpc) ⭐ 1,758 | 🐛 59 | 🌐 C++ | 📅 2026-10-29 <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_mpc?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Talk-red?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/watch?v=2xVN-qY78P4) [![](https://img.shields.io/badge/Talk--2-red?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/watch?v=J-JO-lgaKtw) [![](https://img.shields.io/badge/Quadruped-red?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/watch?v=esLuwaWz4oE)
+* [![](https://img.shields.io/badge/google--deepmind-mujoco_mpc-black?style=flat-square\&logo=github)](https://github.com/google-deepmind/mujoco_mpc) ⭐ 1,758 | 🐛 59 | 🌐 C++ | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_mpc?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Talk-red?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/watch?v=2xVN-qY78P4) [![](https://img.shields.io/badge/Talk--2-red?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/watch?v=J-JO-lgaKtw) [![](https://img.shields.io/badge/Quadruped-red?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/watch?v=esLuwaWz4oE)
 * [![](https://img.shields.io/badge/silvery107-rl--mpc--locomotion-black?style=flat-square\&logo=github)](https://github.com/silvery107/rl-mpc-locomotion) ⭐ 1,033 | 🐛 5 | 🌐 Python | 📅 2026-04-26 <img src="https://img.shields.io/github/stars/silvery107/rl-mpc-locomotion?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/LeCAR--Lab-dial--mpc-black?style=flat-square\&logo=github)](https://github.com/LeCAR-Lab/dial-mpc) ⭐ 1,012 | 🐛 17 | 🌐 Python | 📅 2025-05-28 <img src="https://img.shields.io/github/stars/LeCAR-Lab/dial-mpc?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/iit--DLSLab-Quadruped--PyMPC-black?style=flat-square\&logo=github)](https://github.com/iit-DLSLab/Quadruped-PyMPC) ⭐ 536 | 🐛 1 | 🌐 Python | 📅 2026-10-16 <img src="https://img.shields.io/github/stars/iit-DLSLab/Quadruped-PyMPC?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/iit--DLSLab-mpx-black?style=flat-square\&logo=github)](https://github.com/iit-DLSLab/mpx) ⭐ 281 | 🐛 8 | 🌐 Python | 📅 2026-09-02 <img src="https://img.shields.io/github/stars/iit-DLSLab/mpx?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/lukasmolnar-wb--mpc--locoman-black?style=flat-square\&logo=github)](https://github.com/lukasmolnar/wb-mpc-locoman) ⭐ 268 | 🐛 2 | 🌐 Python | 📅 2025-12-28 <img src="https://img.shields.io/github/stars/lukasmolnar/wb-mpc-locoman?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/lukasmolnar-wb--mpc--locoman-black?style=flat-square\&logo=github)](https://github.com/lukasmolnar/wb-mpc-locoman) ⭐ 269 | 🐛 2 | 🌐 Python | 📅 2025-12-28 <img src="https://img.shields.io/github/stars/lukasmolnar/wb-mpc-locoman?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ARCaD--Lab--UM-RF--MPC-black?style=flat-square\&logo=github)](https://github.com/ARCaD-Lab-UM/RF-MPC) ⭐ 241 | 🐛 2 | 🌐 MATLAB | 📅 2025-02-28 <img src="https://img.shields.io/github/stars/ARCaD-Lab-UM/RF-MPC?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/jrapudg-RTWholeBodyMPPI-black?style=flat-square\&logo=github)](https://github.com/jrapudg/RTWholeBodyMPPI) ⭐ 196 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-05-18 <img src="https://img.shields.io/github/stars/jrapudg/RTWholeBodyMPPI?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/dojo--sim-ContactImplicitMPC.jl-black?style=flat-square\&logo=github)](https://github.com/dojo-sim/ContactImplicitMPC.jl) ⭐ 168 | 🐛 4 | 🌐 Julia | 📅 2022-12-14 <img src="https://img.shields.io/github/stars/dojo-sim/ContactImplicitMPC.jl?style=flat-square&color=yellow">
@@ -851,6 +852,7 @@
 * [![](https://img.shields.io/badge/yinghansun-pympc--quadruped-black?style=flat-square\&logo=github)](https://github.com/yinghansun/pympc-quadruped) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2023-06-01 <img src="https://img.shields.io/github/stars/yinghansun/pympc-quadruped?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/machines--in--motion-biconvex_mpc-black?style=flat-square\&logo=github)](https://github.com/machines-in-motion/biconvex_mpc) ⭐ 40 | 🐛 5 | 🌐 C++ | 📅 2023-05-12 <img src="https://img.shields.io/github/stars/machines-in-motion/biconvex_mpc?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/stanford--iris--lab-vlm--pc-black?style=flat-square\&logo=github)](https://github.com/stanford-iris-lab/vlm-pc) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2024-08-29 <img src="https://img.shields.io/github/stars/stanford-iris-lab/vlm-pc?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/voltdog-mors_quadruped-black?style=flat-square\&logo=github)](https://github.com/voltdog/mors_quadruped) ⭐ 22 | 🐛 0 | 🌐 C++ | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/voltdog/mors_quadruped?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/machines--in--motion-croco_mpc_utils-black?style=flat-square\&logo=github)](https://github.com/machines-in-motion/croco_mpc_utils) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-02-13 <img src="https://img.shields.io/github/stars/machines-in-motion/croco_mpc_utils?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/machines--in--motion-force_feedback_mpc-black?style=flat-square\&logo=github)](https://github.com/machines-in-motion/force_feedback_mpc) ⭐ 10 | 🐛 2 | 🌐 C++ | 📅 2026-10-06 <img src="https://img.shields.io/github/stars/machines-in-motion/force_feedback_mpc?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/RoLACLab-mpc--and--rl--benchmark-black?style=flat-square\&logo=github)](https://github.com/RoLACLab/mpc-and-rl-benchmark) ⭐ 12 | 🐛 0 | 📅 2025-06-10 <img src="https://img.shields.io/github/stars/RoLACLab/mpc-and-rl-benchmark?style=flat-square&color=yellow">
@@ -868,12 +870,12 @@
 
 <details><summary><b>Navigation</b></summary>
 
-* [![](https://img.shields.io/badge/ANYbotics-grid_map-black?style=flat-square\&logo=github)](https://github.com/ANYbotics/grid_map) ⭐ 3,268 | 🐛 168 | 🌐 C++ | 📅 2026-01-13 <img src="https://img.shields.io/github/stars/ANYbotics/grid_map?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/ANYbotics-grid_map-black?style=flat-square\&logo=github)](https://github.com/ANYbotics/grid_map) ⭐ 3,267 | 🐛 168 | 🌐 C++ | 📅 2026-01-13 <img src="https://img.shields.io/github/stars/ANYbotics/grid_map?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ANYbotics-elevation_mapping-black?style=flat-square\&logo=github)](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,900 | 🐛 101 | 🌐 C++ | 📅 2024-11-04 <img src="https://img.shields.io/github/stars/ANYbotics/elevation_mapping?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/bdaiinstitute-vlfm-black?style=flat-square\&logo=github)](https://github.com/bdaiinstitute/vlfm) ⭐ 832 | 🐛 39 | 🌐 Python | 📅 2025-11-12 <img src="https://img.shields.io/github/stars/bdaiinstitute/vlfm?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/leggedrobotics-viplanner-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/viplanner) ⭐ 678 | 🐛 23 | 🌐 Python | 📅 2025-11-20 <img src="https://img.shields.io/github/stars/leggedrobotics/viplanner?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/dfl_rlab-dddmr_navigation-black?style=flat-square\&logo=github)](https://github.com/dfl-rlab/dddmr_navigation) ⭐ 592 | 🐛 58 | 🌐 C++ | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/dfl-rlab/dddmr_navigation?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/zst1406217-VR--Robo-black?style=flat-square\&logo=github)](https://github.com/zst1406217/VR-Robo) ⭐ 196 | 🐛 0 | 🌐 Python | 📅 2025-06-20 <img src="https://img.shields.io/github/stars/zst1406217/VR-Robo?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/dfl_rlab-dddmr_navigation-black?style=flat-square\&logo=github)](https://github.com/dfl-rlab/dddmr_navigation) ⭐ 592 | 🐛 59 | 🌐 C++ | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/dfl-rlab/dddmr_navigation?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/zst1406217-VR--Robo-black?style=flat-square\&logo=github)](https://github.com/zst1406217/VR-Robo) ⭐ 197 | 🐛 0 | 🌐 Python | 📅 2025-06-20 <img src="https://img.shields.io/github/stars/zst1406217/VR-Robo?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/HybridRobotics-quadruped_nmpc_dcbf_duality-black?style=flat-square\&logo=github)](https://github.com/HybridRobotics/quadruped_nmpc_dcbf_duality) ⭐ 129 | 🐛 0 | 🌐 C++ | 📅 2023-01-02 <img src="https://img.shields.io/github/stars/HybridRobotics/quadruped_nmpc_dcbf_duality?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/leggedrobotics-smug_planner-black?style=flat-square\&logo=github)](https://github.com/leggedrobotics/smug_planner) ⭐ 80 | 🐛 0 | 🌐 C++ | 📅 2024-05-08 <img src="https://img.shields.io/github/stars/leggedrobotics/smug_planner?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/podgorki-TANGO-black?style=flat-square\&logo=github)](https://github.com/podgorki/TANGO) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2025-09-22 <img src="https://img.shields.io/github/stars/podgorki/TANGO?style=flat-square&color=yellow">
@@ -966,7 +968,8 @@
   * [Stanford Robotics Club](https://stanfordroboticsclub.github.io) - [Github](https://github.com/stanfordroboticsclub)
 * [StochLab (Stochastic Robotics Lab), Indian Institute of Science (IISc)](https://www.stochlab.com) - [Github](https://github.com/StochLab)
 * [The Robotics Lab, IDSIA](https://idsia-robotics.github.io) - [Github](https://github.com/idsia-robotics)
-* [TRAIL, Trustworthy Robotics and AI Lab](https://robotics-trail.github.io)
+* [TRAIL, Trustworthy Robotics and AI Lab, IIT (Comillas-ICAI)](https://robotics-trail.github.io)
+* [URL, Urban Robotics Lab, KAIST](https://urobot.kaist.ac.kr)
 
 </details>
 
@@ -1035,7 +1038,7 @@
 * [![](https://img.shields.io/badge/HybridRobotics-Berkeley--Humanoid--Lite-black?style=flat-square\&logo=github)](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) ⭐ 2,005 | 🐛 8 | 🌐 Python | 📅 2026-03-10 <img src="https://img.shields.io/github/stars/HybridRobotics/Berkeley-Humanoid-Lite?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/HybridRobotics-isaac_berkeley_humanoid-black?style=flat-square\&logo=github)](https://github.com/HybridRobotics/isaac_berkeley_humanoid) ⭐ 297 | 🐛 3 | 🌐 Python | 📅 2024-10-12 <img src="https://img.shields.io/github/stars/HybridRobotics/isaac_berkeley_humanoid?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/BDX--R-gray?style=flat-square\&logo=github)](https://github.com/BDX-R) - [DisneyResearch-BDX Droids](https://la.disneyresearch.com/bdx-droids)
-  * [![](https://img.shields.io/badge/apirrone-Open_Duck_Mini-black?style=flat-square\&logo=github)](https://github.com/apirrone/Open_Duck_Mini) ⭐ 4,615 | 🐛 31 | 🌐 Python | 📅 2026-01-31 <img src="https://img.shields.io/github/stars/apirrone/Open_Duck_Mini?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/apirrone-Open_Duck_Mini-black?style=flat-square\&logo=github)](https://github.com/apirrone/Open_Duck_Mini) ⭐ 4,629 | 🐛 31 | 🌐 Python | 📅 2026-01-31 <img src="https://img.shields.io/github/stars/apirrone/Open_Duck_Mini?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/apirrone-Open_Duck_Playground-black?style=flat-square\&logo=github)](https://github.com/apirrone/Open_Duck_Playground) ⭐ 200 | 🐛 15 | 🌐 Python | 📅 2025-08-11 <img src="https://img.shields.io/github/stars/apirrone/Open_Duck_Playground?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/BDX--R-BDX--R--MjLab-black?style=flat-square\&logo=github)](https://github.com/BDX-R/BDX-R-MjLab) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2026-06-02 <img src="https://img.shields.io/github/stars/BDX-R/BDX-R-MjLab?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/BDX--R-BDX--R--IsaacLab-black?style=flat-square\&logo=github)](https://github.com/BDX-R/BDX-R-IsaacLab) ⭐ 61 | 🐛 7 | 🌐 Python | 📅 2026-03-16 <img src="https://img.shields.io/github/stars/BDX-R/BDX-R-IsaacLab?style=flat-square&color=yellow">
@@ -1056,21 +1059,21 @@
 
 <details><summary><b>Frameworks</b></summary>
 
-* [![](https://img.shields.io/badge/RobotLocomotion-drake-black?style=flat-square\&logo=github)](https://github.com/RobotLocomotion/drake) ⭐ 4,243 | 🐛 647 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/RobotLocomotion/drake?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/NVlabs-GR00T--WholeBodyControl-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GR00T-WholeBodyControl) ⭐ 3,863 | 🐛 74 | 🌐 Python | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/NVlabs/GR00T-WholeBodyControl?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/stack--of--tasks-pinocchio-black?style=flat-square\&logo=github)](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,834 | 🐛 106 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/stack-of-tasks/pinocchio?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/loco--3d-crocoddyl-black?style=flat-square\&logo=github)](https://github.com/loco-3d/crocoddyl) ⭐ 1,322 | 🐛 20 | 🌐 C++ | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/loco-3d/crocoddyl?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/RobotLocomotion-drake-black?style=flat-square\&logo=github)](https://github.com/RobotLocomotion/drake) ⭐ 4,242 | 🐛 654 | 🌐 C++ | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/RobotLocomotion/drake?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/NVlabs-GR00T--WholeBodyControl-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GR00T-WholeBodyControl) ⭐ 3,867 | 🐛 73 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/NVlabs/GR00T-WholeBodyControl?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/stack--of--tasks-pinocchio-black?style=flat-square\&logo=github)](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,833 | 🐛 107 | 🌐 C++ | 📅 2026-11-01 <img src="https://img.shields.io/github/stars/stack-of-tasks/pinocchio?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/loco--3d-crocoddyl-black?style=flat-square\&logo=github)](https://github.com/loco-3d/crocoddyl) ⭐ 1,323 | 🐛 20 | 🌐 C++ | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/loco-3d/crocoddyl?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/ADVRHumanoids-horizon-black?style=flat-square\&logo=github)](https://github.com/ADVRHumanoids/horizon) ⭐ 86 | 🐛 15 | 🌐 Python | 📅 2026-08-03 <img src="https://img.shields.io/github/stars/ADVRHumanoids/horizon?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/NVlabs-ProtoMotions-black?style=flat-square\&logo=github)](https://github.com/NVlabs/ProtoMotions) ⭐ 2,459 | 🐛 16 | 🌐 Python | 📅 2026-10-31 <img src="https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/amazon--far-holosoma-black?style=flat-square\&logo=github)](https://github.com/amazon-far/holosoma) ⭐ 1,713 | 🐛 95 | 🌐 Python | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/amazon-far/holosoma?style=flat-square&color=yellow"> [OmniRetarget](https://omniretarget.github.io)
-* [![](https://img.shields.io/badge/HorizonRobotics-HoloMotion-black?style=flat-square\&logo=github)](https://github.com/HorizonRobotics/HoloMotion) ⭐ 751 | 🐛 0 | 🌐 Python | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/HorizonRobotics/HoloMotion?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/NVlabs-GR00T--VisualSim2Real-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GR00T-VisualSim2Real) ⭐ 436 | 🐛 5 | 🌐 Python | 📅 2026-04-20 <img src="https://img.shields.io/github/stars/NVlabs/GR00T-VisualSim2Real?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/NVlabs-ProtoMotions-black?style=flat-square\&logo=github)](https://github.com/NVlabs/ProtoMotions) ⭐ 2,461 | 🐛 15 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/amazon--far-holosoma-black?style=flat-square\&logo=github)](https://github.com/amazon-far/holosoma) ⭐ 1,713 | 🐛 96 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/amazon-far/holosoma?style=flat-square&color=yellow"> [OmniRetarget](https://omniretarget.github.io)
+* [![](https://img.shields.io/badge/HorizonRobotics-HoloMotion-black?style=flat-square\&logo=github)](https://github.com/HorizonRobotics/HoloMotion) ⭐ 754 | 🐛 0 | 🌐 Python | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/HorizonRobotics/HoloMotion?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/NVlabs-GR00T--VisualSim2Real-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GR00T-VisualSim2Real) ⭐ 438 | 🐛 5 | 🌐 Python | 📅 2026-04-20 <img src="https://img.shields.io/github/stars/NVlabs/GR00T-VisualSim2Real?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/se--hwan-cusadi-black?style=flat-square\&logo=github)](https://github.com/se-hwan/cusadi) ⭐ 363 | 🐛 3 | 🌐 Python | 📅 2026-04-01 <img src="https://img.shields.io/github/stars/se-hwan/cusadi?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ccrpRepo-wbc_fsm-black?style=flat-square\&logo=github)](https://github.com/ccrpRepo/wbc_fsm) ⭐ 252 | 🐛 2 | 🌐 C++ | 📅 2026-10-23 <img src="https://img.shields.io/github/stars/ccrpRepo/wbc_fsm?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/ami--iit-bipedal--locomotion--framework-black?style=flat-square\&logo=github)](https://github.com/ami-iit/bipedal-locomotion-framework) ⭐ 240 | 🐛 80 | 🌐 C++ | 📅 2026-10-23 <img src="https://img.shields.io/github/stars/ami-iit/bipedal-locomotion-framework?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/ami--iit-bipedal--locomotion--framework-black?style=flat-square\&logo=github)](https://github.com/ami-iit/bipedal-locomotion-framework) ⭐ 239 | 🐛 80 | 🌐 C++ | 📅 2026-10-23 <img src="https://img.shields.io/github/stars/ami-iit/bipedal-locomotion-framework?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ami--iit-adam-black?style=flat-square\&logo=github)](https://github.com/ami-iit/adam) ⭐ 227 | 🐛 11 | 🌐 Python | 📅 2026-10-12 <img src="https://img.shields.io/github/stars/ami-iit/adam?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/OpenMOSS-FRoM--W1-black?style=flat-square\&logo=github)](https://github.com/OpenMOSS/FRoM-W1) ⭐ 196 | 🐛 3 | 🌐 Python | 📅 2026-06-05 <img src="https://img.shields.io/github/stars/OpenMOSS/FRoM-W1?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/HansZ8-RoboJuDo-black?style=flat-square\&logo=github)](https://github.com/HansZ8/RoboJuDo) ⭐ 592 | 🐛 15 | 🌐 Python | 📅 2026-08-27 <img src="https://img.shields.io/github/stars/HansZ8/RoboJuDo?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/OpenMOSS-FRoM--W1-black?style=flat-square\&logo=github)](https://github.com/OpenMOSS/FRoM-W1) ⭐ 197 | 🐛 3 | 🌐 Python | 📅 2026-06-05 <img src="https://img.shields.io/github/stars/OpenMOSS/FRoM-W1?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/HansZ8-RoboJuDo-black?style=flat-square\&logo=github)](https://github.com/HansZ8/RoboJuDo) ⭐ 593 | 🐛 15 | 🌐 Python | 📅 2026-08-27 <img src="https://img.shields.io/github/stars/HansZ8/RoboJuDo?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/DAIRLab-dairlib-black?style=flat-square\&logo=github)](https://github.com/DAIRLab/dairlib) ⭐ 119 | 🐛 35 | 🌐 C++ | 📅 2026-10-20 <img src="https://img.shields.io/github/stars/DAIRLab/dairlib?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ami--iit-biomechanical--analysis--framework-black?style=flat-square\&logo=github)](https://github.com/ami-iit/biomechanical-analysis-framework) ⭐ 11 | 🐛 3 | 🌐 C++ | 📅 2026-08-25 <img src="https://img.shields.io/github/stars/ami-iit/biomechanical-analysis-framework?style=flat-square&color=yellow">
 
@@ -1078,14 +1081,14 @@
 
 <details><summary><b>Learning-based</b></summary>
 
-* [![](https://img.shields.io/badge/YanjieZe-awesome--humanoid--robot--learning-black?style=flat-square\&logo=github)](https://github.com/YanjieZe/awesome-humanoid-robot-learning) ⭐ 2,866 | 🐛 1 | 🌐 Python | 📅 2026-10-31 <img src="https://img.shields.io/github/stars/YanjieZe/awesome-humanoid-robot-learning?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/roboterax-humanoid--gym-black?style=flat-square\&logo=github)](https://github.com/roboterax/humanoid-gym) ⭐ 2,113 | 🐛 25 | 🌐 Python | 📅 2025-01-26 <img src="https://img.shields.io/github/stars/roboterax/humanoid-gym?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/robfiras-loco--mujoco-black?style=flat-square\&logo=github)](https://github.com/robfiras/loco-mujoco) ⭐ 1,471 | 🐛 43 | 🌐 Python | 📅 2026-10-22 <img src="https://img.shields.io/github/stars/robfiras/loco-mujoco?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/YanjieZe-awesome--humanoid--robot--learning-black?style=flat-square\&logo=github)](https://github.com/YanjieZe/awesome-humanoid-robot-learning) ⭐ 2,870 | 🐛 1 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/YanjieZe/awesome-humanoid-robot-learning?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/roboterax-humanoid--gym-black?style=flat-square\&logo=github)](https://github.com/roboterax/humanoid-gym) ⭐ 2,114 | 🐛 25 | 🌐 Python | 📅 2025-01-26 <img src="https://img.shields.io/github/stars/roboterax/humanoid-gym?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/robfiras-loco--mujoco-black?style=flat-square\&logo=github)](https://github.com/robfiras/loco-mujoco) ⭐ 1,472 | 🐛 43 | 🌐 Python | 📅 2026-10-22 <img src="https://img.shields.io/github/stars/robfiras/loco-mujoco?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/robfiras-ls--iq-black?style=flat-square\&logo=github)](https://github.com/robfiras/ls-iq) ⭐ 63 | 🐛 1 | 🌐 Python | 📅 2024-02-02 <img src="https://img.shields.io/github/stars/robfiras/ls-iq?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/rohanpsingh-LearningHumanoidWalking-black?style=flat-square\&logo=github)](https://github.com/rohanpsingh/LearningHumanoidWalking) ⭐ 1,233 | 🐛 20 | 🌐 Python | 📅 2026-05-03 <img src="https://img.shields.io/github/stars/rohanpsingh/LearningHumanoidWalking?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/jonyzhang2023-awesome--humanoid--learning-black?style=flat-square\&logo=github)](https://github.com/jonyzhang2023/awesome-humanoid-learning) ⭐ 947 | 🐛 2 | 📅 2026-03-16 <img src="https://img.shields.io/github/stars/jonyzhang2023/awesome-humanoid-learning?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/MarkFzp-humanplus-black?style=flat-square\&logo=github)](https://github.com/MarkFzp/humanplus) ⭐ 851 | 🐛 0 | 🌐 Python | 📅 2024-07-01 <img src="https://img.shields.io/github/stars/MarkFzp/humanplus?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/carlosferrazza-humanoid--bench-black?style=flat-square\&logo=github)](https://github.com/carlosferrazza/humanoid-bench) ⭐ 802 | 🐛 26 | 🌐 Python | 📅 2025-09-18 <img src="https://img.shields.io/github/stars/carlosferrazza/humanoid-bench?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/carlosferrazza-humanoid--bench-black?style=flat-square\&logo=github)](https://github.com/carlosferrazza/humanoid-bench) ⭐ 803 | 🐛 26 | 🌐 Python | 📅 2025-09-18 <img src="https://img.shields.io/github/stars/carlosferrazza/humanoid-bench?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/GalaxyGeneralRobotics-LATENT-black?style=flat-square\&logo=github)](https://github.com/GalaxyGeneralRobotics/LATENT) ⭐ 729 | 🐛 4 | 🌐 Python | 📅 2026-04-30 <img src="https://img.shields.io/github/stars/GalaxyGeneralRobotics/LATENT?style=flat-square&color=yellow">
   * [HITTER](https://humanoid-table-tennis.github.io) - [Arxiv](https://arxiv.org/abs/2508.21043)
 * [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square\&logo=github)](https://github.com/Skylark0924/Rofunc) ⭐ 720 | 🐛 14 | 🌐 Python | 📅 2025-05-19 <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
@@ -1098,9 +1101,11 @@
   * [![](https://img.shields.io/badge/LeCAR--Lab-SoFTA-black?style=flat-square\&logo=github)](https://github.com/LeCAR-Lab/SoFTA) ⭐ 148 | 🐛 3 | 🌐 Python | 📅 2025-08-24 <img src="https://img.shields.io/github/stars/LeCAR-Lab/SoFTA?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/mit--biomimetics-fld-black?style=flat-square\&logo=github)](https://github.com/mit-biomimetics/fld) ⭐ 367 | 🐛 0 | 🌐 Python | 📅 2024-06-13 <img src="https://img.shields.io/github/stars/mit-biomimetics/fld?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/mujocolab-g1_spinkick_example-black?style=flat-square\&logo=github)](https://github.com/mujocolab/g1_spinkick_example) ⭐ 255 | 🐛 0 | 🌐 Python | 📅 2026-02-21 <img src="https://img.shields.io/github/stars/mujocolab/g1_spinkick_example?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/siddarth09-Bheema-black?style=flat-square\&logo=github)](https://github.com/siddarth09/Bheema) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-19 <img src="https://img.shields.io/github/stars/siddarth09/Bheema?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/junhengl-mpc--rl-black?style=flat-square\&logo=github)](https://github.com/junhengl/mpc-rl) ⭐ 115 | 🐛 1 | 🌐 Python | 📅 2026-06-10 <img src="https://img.shields.io/github/stars/junhengl/mpc-rl?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/goncalog-ai--robotics-black?style=flat-square\&logo=github)](https://github.com/goncalog/ai-robotics) ⭐ 106 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-03-24 <img src="https://img.shields.io/github/stars/goncalog/ai-robotics?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/vincekurtz-gpc-black?style=flat-square\&logo=github)](https://github.com/vincekurtz/gpc) ⭐ 94 | 🐛 3 | 🌐 Python | 📅 2026-03-26 <img src="https://img.shields.io/github/stars/vincekurtz/gpc?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/BeingBeyond-BumbleBee-black?style=flat-square\&logo=github)](https://github.com/BeingBeyond/BumbleBee) ⭐ 79 | 🐛 3 | 📅 2025-09-28 <img src="https://img.shields.io/github/stars/BeingBeyond/BumbleBee?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/BeingBeyond-BumbleBee-black?style=flat-square\&logo=github)](https://github.com/BeingBeyond/BumbleBee) ⭐ 78 | 🐛 3 | 📅 2025-09-28 <img src="https://img.shields.io/github/stars/BeingBeyond/BumbleBee?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/BeingBeyond-Jaeger-black?style=flat-square\&logo=github)](https://github.com/BeingBeyond/Jaeger) ⭐ 13 | 🐛 0 | 📅 2025-05-22 <img src="https://img.shields.io/github/stars/BeingBeyond/Jaeger?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/NMadhub-g1--dribble--newton-black?style=flat-square\&logo=github)](https://github.com/NMadhub/g1-dribble-newton) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-06-17 <img src="https://img.shields.io/github/stars/NMadhub/g1-dribble-newton?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Xianqi--Zhang-FLAM-black?style=flat-square\&logo=github)](https://github.com/Xianqi-Zhang/FLAM) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-11-27 <img src="https://img.shields.io/github/stars/Xianqi-Zhang/FLAM?style=flat-square&color=yellow">
@@ -1109,14 +1114,14 @@
 
 <details><summary><b>&nbsp;&nbsp;- Learning-based: Imitation</b></summary>
 
-* [![](https://img.shields.io/badge/NVlabs-ProtoMotions-black?style=flat-square\&logo=github)](https://github.com/NVlabs/ProtoMotions) ⭐ 2,459 | 🐛 16 | 🌐 Python | 📅 2026-10-31 <img src="https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/NVlabs-ProtoMotions-black?style=flat-square\&logo=github)](https://github.com/NVlabs/ProtoMotions) ⭐ 2,461 | 🐛 15 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/EGalahad-sim2real-black?style=flat-square\&logo=github)](https://github.com/EGalahad/sim2real) ⭐ 154 | 🐛 2 | 🌐 Python | 📅 2026-10-20 <img src="https://img.shields.io/github/stars/EGalahad/sim2real?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/GPC-black?style=flat-square\&logo=github)](https://yi-shi94.github.io/gpc-page) [Arxiv](https://arxiv.org/abs/2606.29148)
-* [![](https://img.shields.io/badge/xbpeng-MimicKit-black?style=flat-square\&logo=github)](https://github.com/xbpeng/MimicKit) ⭐ 2,410 | 🐛 27 | 🌐 Python | 📅 2026-10-17 <img src="https://img.shields.io/github/stars/xbpeng/MimicKit?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/VideoMimic-lightblue?style=flat-square)](https://www.videomimic.net) [![](https://img.shields.io/badge/hongsukchoi-VideoMimic-black?style=flat-square\&logo=github)](https://github.com/hongsukchoi/VideoMimic) ⭐ 845 | 🐛 7 | 🌐 Python | 📅 2025-11-25 <img src="https://img.shields.io/github/stars/hongsukchoi/VideoMimic?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/xbpeng-MimicKit-black?style=flat-square\&logo=github)](https://github.com/xbpeng/MimicKit) ⭐ 2,411 | 🐛 27 | 🌐 Python | 📅 2026-10-17 <img src="https://img.shields.io/github/stars/xbpeng/MimicKit?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/VideoMimic-lightblue?style=flat-square)](https://www.videomimic.net) [![](https://img.shields.io/badge/hongsukchoi-VideoMimic-black?style=flat-square\&logo=github)](https://github.com/hongsukchoi/VideoMimic) ⭐ 846 | 🐛 7 | 🌐 Python | 📅 2025-11-25 <img src="https://img.shields.io/github/stars/hongsukchoi/VideoMimic?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/GalaxyGeneralRobotics-LATENT-black?style=flat-square\&logo=github)](https://github.com/GalaxyGeneralRobotics/LATENT) ⭐ 729 | 🐛 4 | 🌐 Python | 📅 2026-04-30 <img src="https://img.shields.io/github/stars/GalaxyGeneralRobotics/LATENT?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/lecar--lab-hdmi-black?style=flat-square\&logo=github)](https://github.com/lecar-lab/hdmi) ⭐ 678 | 🐛 1 | 🌐 Python | 📅 2026-01-17 <img src="https://img.shields.io/github/stars/lecar-lab/hdmi?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/VisualMimic-lightblue?style=flat-square)](https://visualmimic.github.io) [![](https://img.shields.io/badge/visualmimic-VisualMimic-black?style=flat-square\&logo=github)](https://github.com/visualmimic/VisualMimic) ⭐ 300 | 🐛 1 | 🌐 Python | 📅 2025-10-03 <img src="https://img.shields.io/github/stars/visualmimic/VisualMimic?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/lecar--lab-hdmi-black?style=flat-square\&logo=github)](https://github.com/lecar-lab/hdmi) ⭐ 679 | 🐛 1 | 🌐 Python | 📅 2026-01-17 <img src="https://img.shields.io/github/stars/lecar-lab/hdmi?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/VisualMimic-lightblue?style=flat-square)](https://visualmimic.github.io) [![](https://img.shields.io/badge/visualmimic-VisualMimic-black?style=flat-square\&logo=github)](https://github.com/visualmimic/VisualMimic) ⭐ 301 | 🐛 1 | 🌐 Python | 📅 2025-10-03 <img src="https://img.shields.io/github/stars/visualmimic/VisualMimic?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/EgoHumanoid-lightblue?style=flat-square)](https://opendrivelab.com/EgoHumanoid) [![](https://img.shields.io/badge/OpenDriveLab-EgoHumanoid-black?style=flat-square\&logo=github)](https://github.com/OpenDriveLab/EgoHumanoid) ⭐ 262 | 🐛 2 | 🌐 Python | 📅 2026-06-06 <img src="https://img.shields.io/github/stars/OpenDriveLab/EgoHumanoid?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/rsamf-add--gym-black?style=flat-square\&logo=github)](https://github.com/rsamf/add-gym) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-02-28 <img src="https://img.shields.io/github/stars/rsamf/add-gym?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Mimicking--Bench-lightblue?style=flat-square)](https://mimicking-bench.github.io) [Arxiv](https://arxiv.org/abs/2412.17730)
@@ -1124,29 +1129,35 @@
 
 </details>
 
+<details><summary><b>&nbsp;&nbsp;- Learning-based: Datasets</b></summary>
+
+* [![](https://img.shields.io/badge/rai--opensource-hold-black?style=flat-square\&logo=github)](https://github.com/rai-opensource/hold) ⭐ 6 | 🐛 1 | 📅 2026-10-16 <img src="https://img.shields.io/github/stars/rai-opensource/hold?style=flat-square&color=yellow">
+
+</details>
+
 <details><summary><b>Teleoperation/Motion-Tracking/Retargeting</b></summary>
 
-* [![](https://img.shields.io/badge/SONIC-lightblue?style=flat-square)](https://nvlabs.github.io/SONIC) [![](https://img.shields.io/badge/NVlabs-GR00T--WholeBodyControl-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GR00T-WholeBodyControl) ⭐ 3,863 | 🐛 74 | 🌐 Python | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/NVlabs/GR00T-WholeBodyControl?style=flat-square&color=yellow">
-  * [MotionBricks](https://nvlabs.github.io/motionbricks) [![](https://img.shields.io/badge/NVlabs-GR00T--WholeBodyControl--MotionBricks-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GR00T-WholeBodyControl/tree/main/motionbricks) ⭐ 3,863 | 🐛 74 | 🌐 Python | 📅 2026-10-26
+* [![](https://img.shields.io/badge/SONIC-lightblue?style=flat-square)](https://nvlabs.github.io/SONIC) [![](https://img.shields.io/badge/NVlabs-GR00T--WholeBodyControl-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GR00T-WholeBodyControl) ⭐ 3,867 | 🐛 73 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/NVlabs/GR00T-WholeBodyControl?style=flat-square&color=yellow">
+  * [MotionBricks](https://nvlabs.github.io/motionbricks) [![](https://img.shields.io/badge/NVlabs-GR00T--WholeBodyControl--MotionBricks-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GR00T-WholeBodyControl/tree/main/motionbricks) ⭐ 3,867 | 🐛 73 | 🌐 Python | 📅 2026-11-03
   * [Sonic AgiBot X2 Port](https://sonic-agibot-x2.github.io)
-* [![](https://img.shields.io/badge/YanjieZe-GMR-black?style=flat-square\&logo=github)](https://github.com/YanjieZe/GMR) ⭐ 2,811 | 🐛 89 | 🌐 Python | 📅 2026-10-22 <img src="https://img.shields.io/github/stars/YanjieZe/GMR?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/YanjieZe-GMR-black?style=flat-square\&logo=github)](https://github.com/YanjieZe/GMR) ⭐ 2,814 | 🐛 89 | 🌐 Python | 📅 2026-10-22 <img src="https://img.shields.io/github/stars/YanjieZe/GMR?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/TWIST2-lightblue?style=flat-square)](https://yanjieze.com/TWIST2) [![](https://img.shields.io/badge/amazon--far-TWIST2-black?style=flat-square\&logo=github)](https://github.com/amazon-far/TWIST2) ⭐ 894 | 🐛 37 | 🌐 Python | 📅 2026-09-23 <img src="https://img.shields.io/github/stars/amazon-far/TWIST2?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/TWIST-lightblue?style=flat-square)](https://yanjieze.com/TWIST) [![](https://img.shields.io/badge/YanjieZe-TWIST-black?style=flat-square\&logo=github)](https://github.com/YanjieZe/TWIST) ⭐ 823 | 🐛 3 | 🌐 Python | 📅 2025-11-01 <img src="https://img.shields.io/github/stars/YanjieZe/TWIST?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/ImChong-Robot_Retarget_Online-black?style=flat-square\&logo=github)](https://github.com/ImChong/Robot_Retarget_Online) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-28 <img src="https://img.shields.io/github/stars/ImChong/Robot_Retarget_Online?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/HybridRobotics-whole_body_tracking-black?style=flat-square\&logo=github)](https://github.com/HybridRobotics/whole_body_tracking) ⚠️ Archived <img src="https://img.shields.io/github/stars/HybridRobotics/whole_body_tracking?style=flat-square&color=yellow"> [BeyondMimic](https://beyondmimic.github.io)
-  * [![](https://img.shields.io/badge/BoosterRobotics-booster_train-black?style=flat-square\&logo=github)](https://github.com/BoosterRobotics/booster_train) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2026-10-27 <img src="https://img.shields.io/github/stars/BoosterRobotics/booster_train?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/amazon--far-holosoma-black?style=flat-square\&logo=github)](https://github.com/amazon-far/holosoma) ⭐ 1,713 | 🐛 95 | 🌐 Python | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/amazon-far/holosoma?style=flat-square&color=yellow"> [OmniRetarget](https://omniretarget.github.io)
+  * [![](https://img.shields.io/badge/BoosterRobotics-booster_train-black?style=flat-square\&logo=github)](https://github.com/BoosterRobotics/booster_train) ⭐ 68 | 🐛 2 | 🌐 Python | 📅 2026-10-27 <img src="https://img.shields.io/github/stars/BoosterRobotics/booster_train?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/amazon--far-holosoma-black?style=flat-square\&logo=github)](https://github.com/amazon-far/holosoma) ⭐ 1,713 | 🐛 96 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/amazon-far/holosoma?style=flat-square&color=yellow"> [OmniRetarget](https://omniretarget.github.io)
 * [![](https://img.shields.io/badge/GalaxyGeneralRobotics-OpenTrack-black?style=flat-square\&logo=github)](https://github.com/GalaxyGeneralRobotics/OpenTrack) ⭐ 773 | 🐛 17 | 🌐 C++ | 📅 2026-06-04 <img src="https://img.shields.io/github/stars/GalaxyGeneralRobotics/OpenTrack?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/AIM--Intelligence-video2robot-black?style=flat-square\&logo=github)](https://github.com/AIM-Intelligence/video2robot) ⭐ 760 | 🐛 4 | 🌐 Python | 📅 2025-12-18 <img src="https://img.shields.io/github/stars/AIM-Intelligence/video2robot?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/SOMA--Retargeter-lightblue?style=flat-square)](https://nvlabs.github.io/SONIC) [![](https://img.shields.io/badge/NVIDIA-soma--retargeter-black?style=flat-square\&logo=github)](https://github.com/NVIDIA/soma-retargeter) ⭐ 693 | 🐛 10 | 🌐 Python | 📅 2026-10-01 <img src="https://img.shields.io/github/stars/NVIDIA/soma-retargeter?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/Kimodo-lightblue?style=flat-square)](https://research.nvidia.com/labs/sil/projects/kimodo) [![](https://img.shields.io/badge/nv--tlabs-kimodo-black?style=flat-square\&logo=github)](https://github.com/nv-tlabs/kimodo) ⭐ 3,968 | 🐛 21 | 🌐 Python | 📅 2026-10-15 <img src="https://img.shields.io/github/stars/nv-tlabs/kimodo?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/NVlabs-SOMA--X-black?style=flat-square\&logo=github)](https://github.com/NVlabs/SOMA-X) ⭐ 854 | 🐛 10 | 🌐 Python | 📅 2026-10-09 <img src="https://img.shields.io/github/stars/NVlabs/SOMA-X?style=flat-square&color=yellow">
-    * [![](https://img.shields.io/badge/NVlabs-GENMO-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GENMO) ⭐ 540 | 🐛 22 | 🌐 Python | 📅 2026-06-23 <img src="https://img.shields.io/github/stars/NVlabs/GENMO?style=flat-square&color=yellow">
-    * [![](https://img.shields.io/badge/NVlabs-GEM--X-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GEM-X) ⭐ 532 | 🐛 20 | 🌐 Python | 📅 2026-10-22 <img src="https://img.shields.io/github/stars/NVlabs/GEM-X?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/SOMA--Retargeter-lightblue?style=flat-square)](https://nvlabs.github.io/SONIC) [![](https://img.shields.io/badge/NVIDIA-soma--retargeter-black?style=flat-square\&logo=github)](https://github.com/NVIDIA/soma-retargeter) ⭐ 696 | 🐛 10 | 🌐 Python | 📅 2026-10-01 <img src="https://img.shields.io/github/stars/NVIDIA/soma-retargeter?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/Kimodo-lightblue?style=flat-square)](https://research.nvidia.com/labs/sil/projects/kimodo) [![](https://img.shields.io/badge/nv--tlabs-kimodo-black?style=flat-square\&logo=github)](https://github.com/nv-tlabs/kimodo) ⭐ 3,981 | 🐛 22 | 🌐 Python | 📅 2026-10-15 <img src="https://img.shields.io/github/stars/nv-tlabs/kimodo?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/NVlabs-SOMA--X-black?style=flat-square\&logo=github)](https://github.com/NVlabs/SOMA-X) ⭐ 857 | 🐛 10 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/NVlabs/SOMA-X?style=flat-square&color=yellow">
+    * [![](https://img.shields.io/badge/NVlabs-GENMO-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GENMO) ⭐ 541 | 🐛 22 | 🌐 Python | 📅 2026-06-23 <img src="https://img.shields.io/github/stars/NVlabs/GENMO?style=flat-square&color=yellow">
+    * [![](https://img.shields.io/badge/NVlabs-GEM--X-black?style=flat-square\&logo=github)](https://github.com/NVlabs/GEM-X) ⭐ 533 | 🐛 17 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/NVlabs/GEM-X?style=flat-square&color=yellow">
     * [![](https://img.shields.io/badge/BONES-SEED-lightblue?style=flat-square)](https://bones.studio/datasets/seed) [![](https://img.shields.io/badge/bones--studio-black?style=flat-square\&logo=github)](https://github.com/bones-studio)
-* [![](https://img.shields.io/badge/SPIDER-lightblue?style=flat-square)](https://jc-bao.github.io/spider-project) [![](https://img.shields.io/badge/facebookresearch/spider-black?style=flat-square\&logo=github)](https://github.com/facebookresearch/spider) ⭐ 590 | 🐛 12 | 🌐 Python | 📅 2026-09-22 <img src="https://img.shields.io/github/stars/facebookresearch/spider?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/HEFT-lightblue?style=flat-square)](https://heft.axell.top) [![](https://img.shields.io/badge/Axellwppr-motion_tracking-black?style=flat-square\&logo=github)](https://github.com/Axellwppr/motion_tracking) ⭐ 419 | 🐛 6 | 🌐 Python | 📅 2026-07-13 <img src="https://img.shields.io/github/stars/Axellwppr/motion_tracking?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/MOSAIC-lightblue?style=flat-square)](https://baai-humanoid.github.io/MOSAIC) [![](https://img.shields.io/badge/BAAI--Humanoid-MOSAIC-black?style=flat-square\&logo=github)](https://github.com/BAAI-Humanoid/MOSAIC) ⭐ 142 | 🐛 6 | 🌐 Python | 📅 2026-03-07 <img src="https://img.shields.io/github/stars/BAAI-Humanoid/MOSAIC?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/SPIDER-lightblue?style=flat-square)](https://jc-bao.github.io/spider-project) [![](https://img.shields.io/badge/facebookresearch/spider-black?style=flat-square\&logo=github)](https://github.com/facebookresearch/spider) ⭐ 592 | 🐛 12 | 🌐 Python | 📅 2026-09-22 <img src="https://img.shields.io/github/stars/facebookresearch/spider?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/HEFT-lightblue?style=flat-square)](https://heft.axell.top) [![](https://img.shields.io/badge/Axellwppr-motion_tracking-black?style=flat-square\&logo=github)](https://github.com/Axellwppr/motion_tracking) ⭐ 421 | 🐛 6 | 🌐 Python | 📅 2026-07-13 <img src="https://img.shields.io/github/stars/Axellwppr/motion_tracking?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/MOSAIC-lightblue?style=flat-square)](https://baai-humanoid.github.io/MOSAIC) [![](https://img.shields.io/badge/BAAI--Humanoid-MOSAIC-black?style=flat-square\&logo=github)](https://github.com/BAAI-Humanoid/MOSAIC) ⭐ 143 | 🐛 6 | 🌐 Python | 📅 2026-03-07 <img src="https://img.shields.io/github/stars/BAAI-Humanoid/MOSAIC?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/DeVI-lightblue?style=flat-square)](https://snuvclab.github.io/devi) [![](https://img.shields.io/badge/snuvclab-devi-black?style=flat-square\&logo=github)](https://github.com/snuvclab/devi) ⭐ 43 | 🐛 2 | 📅 2026-10-12 <img src="https://img.shields.io/github/stars/snuvclab/devi?style=flat-square&color=yellow">
 
 </details>
@@ -1156,27 +1167,27 @@
 * [![](https://img.shields.io/badge/sebastianstarke-AI4Animation-black?style=flat-square\&logo=github)](https://github.com/sebastianstarke/AI4Animation) ⭐ 8,911 | 🐛 37 | 🌐 C++ | 📅 2026-04-17 <img src="https://img.shields.io/github/stars/sebastianstarke/AI4Animation?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/ethanmclark1-biped_locomotion-black?style=flat-square\&logo=github)](https://github.com/ethanmclark1/biped_locomotion) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-03-18 <img src="https://img.shields.io/github/stars/ethanmclark1/biped_locomotion?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/xbpeng-DeepMimic-black?style=flat-square\&logo=github)](https://github.com/xbpeng/DeepMimic) ⭐ 3,120 | 🐛 104 | 🌐 C++ | 📅 2025-11-27 <img src="https://img.shields.io/github/stars/xbpeng/DeepMimic?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/xbpeng-MimicKit-black?style=flat-square\&logo=github)](https://github.com/xbpeng/MimicKit) ⭐ 2,410 | 🐛 27 | 🌐 Python | 📅 2026-10-17 <img src="https://img.shields.io/github/stars/xbpeng/MimicKit?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/xbpeng-MimicKit-black?style=flat-square\&logo=github)](https://github.com/xbpeng/MimicKit) ⭐ 2,411 | 🐛 27 | 🌐 Python | 📅 2026-10-17 <img src="https://img.shields.io/github/stars/xbpeng/MimicKit?style=flat-square&color=yellow">
   * [![](https://img.shields.io/badge/EricVoll-amp_motion_conversion-black?style=flat-square\&logo=github)](https://github.com/EricVoll/amp_motion_conversion) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2023-02-24 <img src="https://img.shields.io/github/stars/EricVoll/amp_motion_conversion?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/dyanikoglu-ALS--Community-black?style=flat-square\&logo=github)](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,686 | 🐛 17 | 🌐 C++ | 📅 2024-07-10 <img src="https://img.shields.io/github/stars/dyanikoglu/ALS-Community?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/dyanikoglu-ALSV4_CPP-black?style=flat-square\&logo=github)](https://github.com/dyanikoglu/ALSV4_CPP) ⭐ 2,686 | 🐛 17 | 🌐 C++ | 📅 2024-07-10 <img src="https://img.shields.io/github/stars/dyanikoglu/ALSV4_CPP?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/NVlabs-ProtoMotions-black?style=flat-square\&logo=github)](https://github.com/NVlabs/ProtoMotions) ⭐ 2,459 | 🐛 16 | 🌐 Python | 📅 2026-10-31 <img src="https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/NVlabs-ProtoMotions-black?style=flat-square\&logo=github)](https://github.com/NVlabs/ProtoMotions) ⭐ 2,461 | 🐛 15 | 🌐 Python | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ZhengyiLuo-PHC-black?style=flat-square\&logo=github)](https://github.com/ZhengyiLuo/PHC) ⭐ 1,307 | 🐛 29 | 🌐 Python | 📅 2025-08-21 <img src="https://img.shields.io/github/stars/ZhengyiLuo/PHC?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/nv--tlabs-ASE-black?style=flat-square\&logo=github)](https://github.com/nv-tlabs/ASE) ⭐ 1,131 | 🐛 43 | 🌐 Python | 📅 2025-12-07 <img src="https://img.shields.io/github/stars/nv-tlabs/ASE?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/NVlabs-CALM-black?style=flat-square\&logo=github)](https://github.com/NVlabs/CALM) ⭐ 623 | 🐛 5 | 🌐 Python | 📅 2023-07-16 <img src="https://img.shields.io/github/stars/NVlabs/CALM?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/Sirui--Xu-InterMimic-black?style=flat-square\&logo=github)](https://github.com/Sirui-Xu/InterMimic) ⭐ 551 | 🐛 1 | 🌐 Python | 📅 2026-04-21 <img src="https://img.shields.io/github/stars/Sirui-Xu/InterMimic?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/wyhuai-SkillMimic-black?style=flat-square\&logo=github)](https://github.com/wyhuai/SkillMimic) ⭐ 448 | 🐛 4 | 🌐 Python | 📅 2025-06-30 <img src="https://img.shields.io/github/stars/wyhuai/SkillMimic?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/Sirui--Xu-InterMimic-black?style=flat-square\&logo=github)](https://github.com/Sirui-Xu/InterMimic) ⭐ 552 | 🐛 1 | 🌐 Python | 📅 2026-04-21 <img src="https://img.shields.io/github/stars/Sirui-Xu/InterMimic?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/wyhuai-SkillMimic-black?style=flat-square\&logo=github)](https://github.com/wyhuai/SkillMimic) ⭐ 449 | 🐛 4 | 🌐 Python | 📅 2025-06-30 <img src="https://img.shields.io/github/stars/wyhuai/SkillMimic?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ZhengyiLuo-PULSE-black?style=flat-square\&logo=github)](https://github.com/ZhengyiLuo/PULSE) ⭐ 376 | 🐛 9 | 🌐 Python | 📅 2025-02-08 <img src="https://img.shields.io/github/stars/ZhengyiLuo/PULSE?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/inspirai-TimeChamber-black?style=flat-square\&logo=github)](https://github.com/inspirai/TimeChamber) ⭐ 366 | 🐛 2 | 🌐 Python | 📅 2023-01-09 <img src="https://img.shields.io/github/stars/inspirai/TimeChamber?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ZhengyiLuo-SMPLSim-black?style=flat-square\&logo=github)](https://github.com/ZhengyiLuo/SMPLSim) ⭐ 355 | 🐛 8 | 🌐 Python | 📅 2025-11-03 <img src="https://img.shields.io/github/stars/ZhengyiLuo/SMPLSim?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/jiawei--ren-diffmimic-black?style=flat-square\&logo=github)](https://github.com/jiawei-ren/diffmimic) ⭐ 308 | 🐛 2 | 🌐 Python | 📅 2025-01-22 <img src="https://img.shields.io/github/stars/jiawei-ren/diffmimic?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/SMPLOlympics-SMPLOlympics-black?style=flat-square\&logo=github)](https://github.com/SMPLOlympics/SMPLOlympics) ⭐ 256 | 🐛 4 | 🌐 Python | 📅 2025-06-01 <img src="https://img.shields.io/github/stars/SMPLOlympics/SMPLOlympics?style=flat-square&color=yellow">
-  * [![](https://img.shields.io/badge/wzyabcas-InterAct-black?style=flat-square\&logo=github)](https://github.com/wzyabcas/InterAct) ⭐ 215 | 🐛 2 | 🌐 Python | 📅 2026-10-20 <img src="https://img.shields.io/github/stars/wzyabcas/InterAct?style=flat-square&color=yellow">
+  * [![](https://img.shields.io/badge/wzyabcas-InterAct-black?style=flat-square\&logo=github)](https://github.com/wzyabcas/InterAct) ⭐ 216 | 🐛 2 | 🌐 Python | 📅 2026-10-20 <img src="https://img.shields.io/github/stars/wzyabcas/InterAct?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/ZhengyiLuo-UHC-black?style=flat-square\&logo=github)](https://github.com/ZhengyiLuo/UHC) ⭐ 253 | 🐛 2 | 🌐 Python | 📅 2024-02-24 <img src="https://img.shields.io/github/stars/ZhengyiLuo/UHC?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/wyhuai-PhysHOI-black?style=flat-square\&logo=github)](https://github.com/wyhuai/PhysHOI) ⭐ 251 | 🐛 5 | 🌐 Python | 📅 2024-09-04 <img src="https://img.shields.io/github/stars/wyhuai/PhysHOI?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/InternRobotics-UniHSI-black?style=flat-square\&logo=github)](https://github.com/InternRobotics/UniHSI) ⭐ 250 | 🐛 1 | 🌐 Python | 📅 2025-07-15 <img src="https://img.shields.io/github/stars/InternRobotics/UniHSI?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/xbpeng-DeepLoco-black?style=flat-square\&logo=github)](https://github.com/xbpeng/DeepLoco) ⭐ 191 | 🐛 10 | 🌐 C++ | 📅 2018-08-22 <img src="https://img.shields.io/github/stars/xbpeng/DeepLoco?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/Khrylx-RFC-black?style=flat-square\&logo=github)](https://github.com/Khrylx/RFC) ⭐ 170 | 🐛 4 | 🌐 Python | 📅 2022-06-19 <img src="https://img.shields.io/github/stars/Khrylx/RFC?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/Khrylx-RFC-black?style=flat-square\&logo=github)](https://github.com/Khrylx/RFC) ⭐ 169 | 🐛 4 | 🌐 Python | 📅 2022-06-19 <img src="https://img.shields.io/github/stars/Khrylx/RFC?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/NxRoot-ALSV4--Metahumans-black?style=flat-square\&logo=github)](https://github.com/NxRoot/ALSV4-Metahumans) ⭐ 164 | 🐛 1 | 📅 2024-05-08 <img src="https://img.shields.io/github/stars/NxRoot/ALSV4-Metahumans?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/Ingrid789-SkillMimic--V2-black?style=flat-square\&logo=github)](https://github.com/Ingrid789/SkillMimic-V2) ⭐ 161 | 🐛 1 | 🌐 Python | 📅 2025-07-24 <img src="https://img.shields.io/github/stars/Ingrid789/SkillMimic-V2?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/amathislab-Kinesis-black?style=flat-square\&logo=github)](https://github.com/amathislab/Kinesis) ⭐ 154 | 🐛 0 | 🌐 Python | 📅 2026-10-16 <img src="https://img.shields.io/github/stars/amathislab/Kinesis?style=flat-square&color=yellow">
@@ -1188,14 +1199,16 @@
 
 <details><summary><b>Training-free</b></summary>
 
-* [![](https://img.shields.io/badge/loco--3d-crocoddyl-black?style=flat-square\&logo=github)](https://github.com/loco-3d/crocoddyl) ⭐ 1,322 | 🐛 20 | 🌐 C++ | 📅 2026-10-26 <img src="https://img.shields.io/github/stars/loco-3d/crocoddyl?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/loco--3d-crocoddyl-black?style=flat-square\&logo=github)](https://github.com/loco-3d/crocoddyl) ⭐ 1,323 | 🐛 20 | 🌐 C++ | 📅 2026-11-02 <img src="https://img.shields.io/github/stars/loco-3d/crocoddyl?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/pocketxjl-humanoid--control-black?style=flat-square\&logo=github)](https://github.com/pocketxjl/humanoid-control) ⭐ 422 | 🐛 7 | 🌐 C++ | 📅 2025-01-05 <img src="https://img.shields.io/github/stars/pocketxjl/humanoid-control?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/se--hwan-cusadi-black?style=flat-square\&logo=github)](https://github.com/se-hwan/cusadi) ⭐ 363 | 🐛 3 | 🌐 Python | 📅 2026-04-01 <img src="https://img.shields.io/github/stars/se-hwan/cusadi?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/LeCAR--Lab-model--based--diffusion-black?style=flat-square\&logo=github)](https://github.com/LeCAR-Lab/model-based-diffusion) ⭐ 345 | 🐛 3 | 🌐 Python | 📅 2025-03-27 <img src="https://img.shields.io/github/stars/LeCAR-Lab/model-based-diffusion?style=flat-square&color=yellow">
-* [![](https://img.shields.io/badge/vincekurtz-hydrax-black?style=flat-square\&logo=github)](https://github.com/vincekurtz/hydrax) ⭐ 317 | 🐛 8 | 🌐 Python | 📅 2026-07-18 <img src="https://img.shields.io/github/stars/vincekurtz/hydrax?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/vincekurtz-hydrax-black?style=flat-square\&logo=github)](https://github.com/vincekurtz/hydrax) ⭐ 318 | 🐛 8 | 🌐 Python | 📅 2026-07-18 <img src="https://img.shields.io/github/stars/vincekurtz/hydrax?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/iit--DLSLab-mpx-black?style=flat-square\&logo=github)](https://github.com/iit-DLSLab/mpx) ⭐ 281 | 🐛 8 | 🌐 Python | 📅 2026-09-02 <img src="https://img.shields.io/github/stars/iit-DLSLab/mpx?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/Roahm--Lab-RAPTOR-lightblue?style=flat-square)](https://roahmlab.github.io/RAPTOR) [![](https://img.shields.io/badge/roahmlab-RAPTOR-black?style=flat-square\&logo=github)](https://github.com/roahmlab/RAPTOR) ⭐ 181 | 🐛 1 | 🌐 C++ | 📅 2025-05-17 <img src="https://img.shields.io/github/stars/roahmlab/RAPTOR?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/hucebot-seiko_controller_code-black?style=flat-square\&logo=github)](https://github.com/hucebot/seiko_controller_code) ⭐ 61 | 🐛 1 | 🌐 C++ | 📅 2024-05-14 <img src="https://img.shields.io/github/stars/hucebot/seiko_controller_code?style=flat-square&color=yellow">
 * [![](https://img.shields.io/badge/vincekurtz-ltl_gcs-black?style=flat-square\&logo=github)](https://github.com/vincekurtz/ltl_gcs) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2023-08-21 <img src="https://img.shields.io/github/stars/vincekurtz/ltl_gcs?style=flat-square&color=yellow">
+* [![](https://img.shields.io/badge/siddarth09-Bheema-black?style=flat-square\&logo=github)](https://github.com/siddarth09/Bheema) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-19 <img src="https://img.shields.io/github/stars/siddarth09/Bheema?style=flat-square&color=yellow">
 
 </details>
 
@@ -1212,41 +1225,41 @@
 
 <details><summary>List</summary>
 
-* [Mekion](www.mekion.com) - [Github](https://github.com/mekion/the-bimo-project) ⭐ 245 | 🐛 0 | 🌐 Python | 📅 2026-09-03
-* [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu) - [Github](https://github.com/mit-biomimetics)
+* [Mekion](www.mekion.com)・[Github](https://github.com/mekion/the-bimo-project) ⭐ 245 | 🐛 0 | 🌐 Python | 📅 2026-09-03
+* [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu)・[Github](https://github.com/mit-biomimetics)
 * [DFKI: German Research Center for Artificial Intelligence](https://robotik.dfki-bremen.de/en/research/robot-systems)
   * [Github-DFKI](https://github.com/DFKI/Awesome-DFKI) ⭐ 26 | 🐛 0 | 📅 2023-03-06
   * [Github-RIC](https://github.com/dfki-ric)
-* [DRAIL: Dynamic Robotics and Artificial Intelligence Lab, Oregon State University](https://mime.engineering.oregonstate.edu/research/drl) - [Github](https://github.com/osudrl)
+* [DRAIL: Dynamic Robotics and Artificial Intelligence Lab, Oregon State University](https://mime.engineering.oregonstate.edu/research/drl)・[Github](https://github.com/osudrl)
 * [GVLab, UTokyo](https://www.gvlab.jp)
-* [HCRL: Human Centered Robotics Lab, University of Texas at Austin](http://sites.utexas.edu/hcrl) - [Github](https://github.com/UT-HCRL)
+* [HCRL: Human Centered Robotics Lab, University of Texas at Austin](http://sites.utexas.edu/hcrl)・[Github](https://github.com/UT-HCRL)
 * [HUCEBOT, Human Centered Robotics, Inria](https://team.inria.fr/hucebot)
-* [IHMC: Institute for Human and Machine Cognition, Florida University](https://robots.ihmc.us) - [Github](https://github.com/ihmcrobotics)
-* [IIT: Italian Institute of Technology](https://www.iit.it) - [iCub](https://www.iit.it/web/icub-tech) - [ergoCub](https://ergocub.eu)
+* [IHMC: Institute for Human and Machine Cognition, Florida University](https://robots.ihmc.us)・[Github](https://github.com/ihmcrobotics)
+* [IIT: Italian Institute of Technology](https://www.iit.it)・[iCub](https://www.iit.it/web/icub-tech)・[ergoCub](https://ergocub.eu)
   * [Artificial and Mechanical Intelligence](https://ami.iit.it) - [Github](https://github.com/ami-iit)
-  * [Humanoid Sensing and Perception](https://hsp.iit.it) - [Github](https://github.com/hsp-iit)
+  * [Humanoid Sensing and Perception](https://hsp.iit.it)・[Github](https://github.com/hsp-iit)
 * [JSK: Johou Systems Kougaku Lab, UTokyo](http://www.jsk.t.u-tokyo.ac.jp/research.html)
-  * [MEVITA](https://haraduka.github.io/mevita-hardware) - [Github](https://github.com/haraduka/mevita) ⭐ 106 | 🐛 0 | 🌐 Python | 📅 2025-08-27
-* [K-Scale Labs](https://www.kscale.dev)- [Github](https://github.com/kscalelabs)
-* [LeCAR: Learning and Control for Agile Robotics Lab, CMU](https://lecar-lab.github.io) - [Github](https://github.com/LeCAR-Lab)
-* [Lunar Lab, Georgia Tech](https://sites.gatech.edu/lunarlab) - [Github](https://github.com/lunarlab-gatech)
+  * [MEVITA](https://haraduka.github.io/mevita-hardware)・[Github](https://github.com/haraduka/mevita) ⭐ 106 | 🐛 0 | 🌐 Python | 📅 2025-08-27
+* [K-Scale Labs](https://www.kscale.dev)・[Github](https://github.com/kscalelabs)
+* [LeCAR: Learning and Control for Agile Robotics Lab, CMU](https://lecar-lab.github.io)・[Github](https://github.com/LeCAR-Lab)
+* [Lunar Lab, Georgia Tech](https://sites.gatech.edu/lunarlab)・[Github](https://github.com/lunarlab-gatech)
 * [Peking University](https://english.pku.edu.cn)
-  * [EPIC: Embodied Perception and InteraCtion Lab](https://pku-epic.github.io) - [Github](https://github.com/PKU-EPIC)
-  * [Reinforcement Learning Lab](https://z0ngqing.github.io) - [Github](https://github.com/PKU-RL)
-  * [RL Research Group, Institute for AI](https://www.ai.pku.edu.cn/en) - [Github](https://github.com/PKU-MARL)
-  * [PAIR Lab](https://pair-lab.ai) - [Github](https://github.com/PKU-Alignment)
+  * [EPIC: Embodied Perception and InteraCtion Lab](https://pku-epic.github.io)・[Github](https://github.com/PKU-EPIC)
+  * [Reinforcement Learning Lab](https://z0ngqing.github.io)・[Github](https://github.com/PKU-RL)
+  * [RL Research Group, Institute for AI](https://www.ai.pku.edu.cn/en)・[Github](https://github.com/PKU-MARL)
+  * [PAIR Lab](https://pair-lab.ai)・[Github](https://github.com/PKU-Alignment)
 * [PRIN: Principles of Robot Intelligence from Nature/Nurture Laboratory, NII](https://prinlab.org/en)
 * [Robot Learning Lab, NAIST](https://sites.google.com/view/naist-robot-learning-en)
 * [Stanford Robotics Center](https://src.stanford.edu)
-  * [The Movement Lab](https://stanford-tml.github.io/main) - [Github](https://github.com/Stanford-TML)
+  * [The Movement Lab](https://stanford-tml.github.io/main)・[Github](https://github.com/Stanford-TML)
 * [University of California, Berkeley](https://www.berkeley.edu)
   * [BAIR: The Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu)
   * [Hybrid Robotics](https://hybrid-robotics.berkeley.edu)
-    * [Berkeley Humanoid Lite](https://lite.berkeley-humanoid.org) - [Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) ⭐ 2,005 | 🐛 8 | 🌐 Python | 📅 2026-03-10
-    * [Berkeley Humanoid](https://berkeley-humanoid.com) - [Github](https://github.com/HybridRobotics/isaac_berkeley_humanoid) ⭐ 297 | 🐛 3 | 🌐 Python | 📅 2024-10-12
+    * [Berkeley Humanoid Lite](https://lite.berkeley-humanoid.org)・[Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) ⭐ 2,005 | 🐛 8 | 🌐 Python | 📅 2026-03-10
+    * [Berkeley Humanoid](https://berkeley-humanoid.com)・[Github](https://github.com/HybridRobotics/isaac_berkeley_humanoid) ⭐ 297 | 🐛 3 | 🌐 Python | 📅 2024-10-12
 * [University of Pennsylvania](https://www.upenn.edu)
-  * [DAIR: Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu) - [Github](https://github.com/DAIRLab)
-  * [GRASP Lab](https://www.grasp.upenn.edu) - [Github](https://github.com/grasp-lyrl)
+  * [DAIR: Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu)・[Github](https://github.com/DAIRLab)
+  * [GRASP Lab](https://www.grasp.upenn.edu)・[Github](https://github.com/grasp-lyrl)
 
 </details>
 
@@ -1254,48 +1267,117 @@
 
 <details><summary>List</summary>
 
-* [1X](https://www.1x.tech)
-* [Agibot](https://www.agibot.com)
-* [Agile Robots](https://www.agile-robots.com)
-* [Agility Robotics](https://www.agilityrobotics.com)
-* [Apptronik, spinout of HCRL](https://apptronik.com)
-* [Ascento](https://www.ascento.ai)
-* [Astribot](https://www.astribot.com)
-* [Boardwalk Robotics](https://boardwalkrobotics.com)
-* [Booster](https://www.booster.tech) - [Github](https://github.com/BoosterRobotics)
-* [Boston Dynamics](https://bostondynamics.com)
-  * [Electric Altas](https://bostondynamics.com/atlas)
-* [Disney Research, BDX Droids](https://la.disneyresearch.com/bdx-droids)
-* [EngineAI](https://www.engineai.com.cn)
-* [Engineered Arts](https://engineeredarts.com)
-* [Figure](https://www.figure.ai)
-* [Fourier](https://www.fftai.com)
-* [Fraunhofer IML: Institute for Material Flow and Logistics, evoBOT](https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html)
-* [Galbot, G1-Embodied Multimodal Large Model Robot](https://www.galbot.com)
-* [Hexagon, AEON](https://robotics.hexagon.com)
-* [Kawada Robotics](https://www.kawadarobot.co.jp) - [NEXTAGE](https://nextage.kawadarobot.co.jp)
-* [KEENON](https://www.keenon.com)
-* [LimX](https://www.limxdynamics.com/en) - [Github](https://github.com/limxdynamics)
-* [NEURA Robotics](https://neura-robotics.com)
-* [NVIDIA GR00T](https://developer.nvidia.com/isaac/gr00t)
-* [PAL Robotics](https://pal-robotics.com)
-  * [TALOS](https://pal-robotics.com/robot/talos) - [Github](https://github.com/pal-robotics/talos_robot) ⭐ 26 | 🐛 7 | 🌐 Python | 📅 2026-02-20 - [URDF](https://github.com/stack-of-tasks/talos-data) ⚠️ Archived - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos) ⭐ 4,299 | 🐛 61 | 🌐 Python | 📅 2026-10-31
-  * [Kangaroo](https://pal-robotics.com/robot/kangaroo) - [Github](https://github.com/pal-robotics/kangaroo_robot) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-26
-* [ROBOTERA, spinoff of Tsinghua University](https://www.robotera.com)
-* [ROBOTIS](https://robotis.com/en) - [Github](https://github.com/ROBOTIS-GIT)
+> The countries listed below are where bipedal robots are mainly developed, not where they are sold or used for business!
+
+<details><summary>Canada</summary>
+
 * [Sanctuary Cognitive Systems Corporation](https://www.sanctuary.ai)
-* [Tesla](https://www.tesla.com/AI)
-* [The Robot Studio](https://www.therobotstudio.com)
-* [Tokyo Robotics](https://robotics.tokyo)
+
+</details>
+
+<details><summary>China</summary>
+
+* [Agibot](https://www.agibot.com)
+* [Astribot](https://www.astribot.com)
+* [Booster](https://www.booster.tech)・[Github](https://github.com/BoosterRobotics)
+* [Galbot](https://www.galbot.com)
+* [EngineAI](https://www.engineai.com.cn)
+* [Lumos Robotics](https://www.lumosbot.tech)
+* [Fourier](https://www.fftai.com)
+* [KEENON](https://www.keenon.com)
+* [LimX](https://www.limxdynamics.com/en)・[Github](https://github.com/limxdynamics)
+* [ROBOTERA, spinoff of Tsinghua University](https://www.robotera.com)
 * [UBTECH Robotics](https://www.ubtrobot.com)
 * [Unitree Robotics](https://www.unitree.com)
 * [XPENG](https://www.xpeng.com)
 
 </details>
+
+<details><summary>France</summary>
+
+* [Maxtronics, NAO](https://maxtronics.com/en)
+* [The Robot Studio](https://www.therobotstudio.com)
+* [UMA, Universal Mechanical Assistant](https://uma.bot)
+* [Wandercraft](https://www.wandercraft.eu)
+
+</details>
+
+<details><summary>Germany</summary>
+
+* [Agile Robots](https://www.agile-robots.com)
+* [Fraunhofer IML: Institute for Material Flow and Logistics, evoBOT](https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html)
+* [NEURA Robotics](https://neura-robotics.com)
+
+</details>
+
+<details><summary>Italy</summary>
+
+* [Generative Bionics](https://gbionics.ai)・[Github](https://github.com/gbionics)
+* [Oversonic Robotics](https://www.oversonicrobotics.com)・[Github](https://github.com/OversonicRobotics)
+
+</details>
+
+<details><summary>Japan</summary>
+
+* [GMO AI & Robotics](https://humanoid-lab.gmo/en)
+* [Honda Robotics](https://global.honda/jp/tech/robotics)
+* [Kawasaki Robotics](https://kawasakirobotics.com/asia-oceania/blog/category/humanoid-robots)
+* [KyoHA, Kyoto Humanoid Association](https://www.kyoha-robo.or.jp)
+
+</details>
+
+<details><summary>South Korea</summary>
+
+* [Diden Robotics](https://www.didenrobotics.com/en)・[Github](https://github.com/DIDEN-Robotics)
+* [K-Humanoid](https://k-humanoid.com)・[Wiki](https://en.wikipedia.org/wiki/K-Humanoid_Alliance)
+  * [M.AX](https://maxalliance.kr)
+* [Rainbow Robotics](https://rainbow-robotics.com/en)・[Github](https://github.com/RainbowRobotics)
+* [ROBOTIS](https://robotis.com/en)・[Github](https://github.com/ROBOTIS-GIT)
+* [URobotics](https://urobotics.ai/en)
+
+</details>
+
+<details><summary>Spain</summary>
+
+* [PAL Robotics](https://pal-robotics.com)
+  * [TALOS](https://pal-robotics.com/robot/talos)・[Github](https://github.com/pal-robotics/talos_robot) ⭐ 26 | 🐛 7 | 🌐 Python | 📅 2026-02-20 - [URDF](https://github.com/stack-of-tasks/talos-data) ⚠️ Archived - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos) ⭐ 4,306 | 🐛 60 | 🌐 Python | 📅 2026-11-02
+  * [Kangaroo](https://pal-robotics.com/robot/kangaroo)・[Github](https://github.com/pal-robotics/kangaroo_robot) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+
+</details>
+
+<details><summary>Switzerland</summary>
+
+* [Ascento](https://www.ascento.ai)
+* [Hexagon, AEON](https://robotics.hexagon.com)
+
+</details>
+
+<details><summary>UK</summary>
+
+* [Engineered Arts](https://engineeredarts.com)
+
+</details>
+
+<details><summary>US</summary>
+
+* [1X](https://www.1x.tech)
+* [Agility Robotics](https://www.agilityrobotics.com)
+* [Apptronik, spinout of HCRL](https://apptronik.com)
+* [Boardwalk Robotics](https://boardwalkrobotics.com)
+* [Boston Dynamics](https://bostondynamics.com)
+  * [Electric Altas](https://bostondynamics.com/atlas)
+* [Disney Research, BDX Droids](https://la.disneyresearch.com/bdx-droids)
+* [Figure](https://www.figure.ai)
+* [NVIDIA GR00T](https://developer.nvidia.com/isaac/gr00t)
+* [Tesla](https://www.tesla.com/AI)
+
+</details>
+
+</details>
 </details>
 
 ***
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
